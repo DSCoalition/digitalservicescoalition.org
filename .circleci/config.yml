@@ -7,7 +7,7 @@ jobs:
     docker:
       - image: circleci/node:8
     working_directory: ~/repo
-    environment:      
+    environment:
       - SOURCE_BRANCH: master
       - TARGET_BRANCH: gh-pages
     steps:
@@ -23,9 +23,6 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
-      - run:
-          name: Run tests
-          command: npm test
       - deploy:
           name: Deploy
           command: |

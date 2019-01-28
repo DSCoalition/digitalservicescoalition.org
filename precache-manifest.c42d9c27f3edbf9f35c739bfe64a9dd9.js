@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/img/logo-nava.31196a3f.png"
   },
   {
-    "revision": "c2af843ff454382fdc9b",
-    "url": "/digitalservicescoalition.org/js/app.f98b520c.js"
+    "revision": "38f1ecde02429ee7238e",
+    "url": "/digitalservicescoalition.org/js/app.21d932be.js"
   },
   {
     "revision": "84e0ab94dfb04f978415",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "316e4e4269a5418973a96cd6cb238e6a",
+    "revision": "be3882a526e8f1fbe45ed60ed7707b4f",
     "url": "/digitalservicescoalition.org/index.html"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/favicon.png"
   },
   {
-    "revision": "c2af843ff454382fdc9b",
+    "revision": "38f1ecde02429ee7238e",
     "url": "/digitalservicescoalition.org/css/app.21faf295.css"
   }
 ];
