@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/img/bg-rectangle-blue.69161325.png"
   },
   {
-    "revision": "77b54312845efa9d02c6",
-    "url": "/digitalservicescoalition.org/js/app.4a45b867.js"
+    "revision": "4fe79b59345bbbdc7678",
+    "url": "/digitalservicescoalition.org/js/app.a584297b.js"
   },
   {
     "revision": "06e314dbbd9b15674a22",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "dee45745318b1504cf1b599019283502",
+    "revision": "07c3cb566ecd006da6bf7f26aef17124",
     "url": "/digitalservicescoalition.org/index.html"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/digitalservicescoalition.org/favicon.png"
   },
   {
-    "revision": "77b54312845efa9d02c6",
+    "revision": "4fe79b59345bbbdc7678",
     "url": "/digitalservicescoalition.org/css/app.4605da5a.css"
   }
 ];
