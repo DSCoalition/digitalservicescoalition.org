@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/digitalservicescoalition.org/precache-manifest.7ca24fc02af7df5308d997cf8525c2f3.js"
+  "/digitalservicescoalition.org/precache-manifest.35deae7911ece24a9fabd803c36ae0f6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dsc"});
