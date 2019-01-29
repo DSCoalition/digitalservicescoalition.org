@@ -1,15 +1,15 @@
 <template>
     <section>
         
-        <div class="bg-parallax">
+        <div class="bg-parallax-photo">
             <parallax :speed-factor="0.8" sectionClass="parallax-outside" containerClass="parallax-inside">
-                <img src="@/assets/bg-triangle-pink.png" class="float-right" />
+                <img src="@/assets/bg-triangle-pink3.png" class="float-right" />
             </parallax>
         </div>
         
         <div class="container py-5">
             <div class="row justify-content-md-between">
-                <div class="col-md-6 py-5">
+                <div class="col-md-6 py-md-5">
                     <h1 class="text-magenta my-md-5">Join the coalition</h1>
                     
                     <h3 class="text-gray mt-5">Membership Benefits</h3>
@@ -34,6 +34,13 @@
                 </div>
             </div>
         </div>
+        
+        <div class="bg-parallax">
+            <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
+                <img src="@/assets/bg-rectangle-purple.png" />
+            </parallax>
+        </div>
+        
         <div class="bg-gray">
             <div class="container py-5">
                 <div class="row justify-content-md-between">

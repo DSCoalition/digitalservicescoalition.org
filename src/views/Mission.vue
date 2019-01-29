@@ -9,12 +9,12 @@
         
         <div class="container py-5">
             <div class="row justify-content-md-start">
-                <div class="col-md-6 pt-5">
+                <div class="col-md-6 pt-md-5">
                     <h1 class="text-magenta my-md-5">We’re focused on the long game of changing government through digital transformation.</h1>
                 </div>
             </div>
             <div class="row justify-content-md-start">
-                <div class="col-md-8 pb-5">
+                <div class="col-lg-8 pb-5">
                     <p>There are organizations inside the government (USDS, 18F, Presidential Innovation Fellows) that are already spearheading efforts to improve how government delivers services to the American public. But they need support from commercial tech firms to make sweeping changes to how things are done. Nimble, forward-thinking firms are the ones who can make this a reality.</p>
                     <p>By working together, we can accelerate the government’s ability to implement services that focus on good usability, reliable technology, and accessibility for all—while also benefiting the individuals and firms that are part of the community.</p>
                 </div>
@@ -23,7 +23,7 @@
     
         <div class="bg-parallax">
             <parallax :speed-factor="0.8" sectionClass="parallax-outside" containerClass="parallax-inside">
-                <img src="@/assets/bg-triangle-blue3.png" class="float-right"/>
+                <img src="@/assets/bg-triangle-lightblue.png" class="float-right"/>
             </parallax>
         </div>
         

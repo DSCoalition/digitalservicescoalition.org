@@ -2,25 +2,19 @@
     <section>
     
         <div class="bg-parallax-photo">
-            <parallax :speed-factor="0.8" sectionClass="parallax-outside" containerClass="parallax-inside">
-                <img src="@/assets/bg-triangle-pink2.png" />
+            <parallax :speed-factor="0.5" sectionClass="parallax-outside" containerClass="parallax-inside">
+                <img src="@/assets/bg-triangle-pink2.png" class="float-right float-md-none" />
             </parallax>
         </div>
         
         <div class="container py-5">
             <div class="row justify-content-md-end">
-                <div class="col-md-5 py-5">
-                    <h1 class="text-blue  my-md-5">Answering the call by building a community.</h1>
+                <div class="col-md-5 py-md-5">
+                    <h1 class="text-blue my-md-5">Answering the call by building a community.</h1>
                     <p>It started with the Digital Services Playbook, which outlines 13 key “plays” to help the government build more successful digital services. Robert Rasmussen, the CEO of Agile Six, saw this as an opportunity to improve how government contractors could deliver these services by nurturing a sense of community, rather than rivalry.</p>
                     <p>He approached other like-minded companies to create the Digital Services Coalition as a place to share knowledge, find teaming partners for government proposals, and mentor firms who want to get involved in rethinking how the government delivers digital services. By creating this community, we can all bring our best talents to the table and learn from each other’s successes and failures.</p>
                 </div>
             </div>
-        </div>
-        
-        <div class="bg-parallax">
-            <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
-                <img src="@/assets/bg-rectangle-blue.png" />
-            </parallax>
         </div>
 
         <div class="container py-5">
@@ -177,6 +171,62 @@
                         <div class="col-md-8 col-10">
                             <p>“The public has come to expect more because of the digital services they effortlessly enjoy every day. We want to help bridge the gap between public expectation and government delivery by improving procurement, design, and build processes to deliver high-value, modern solutions.”</p> 
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="bg-gray">
+            <div class="container py-5">
+                <h3 class="text-gray py-3">Steering Committee</h3>
+                <div class="row text-center">
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-dan.jpg" alt="Dan Levenson" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Dan Levenson,<br/>
+                            <small class="text-gray">Agile Six</small><br/>
+                            <small class="text-blue">Organization Structure</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-delali.jpg" alt="Delali Dzirasa" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Delali Dzirasa,<br/>
+                            <small class="text-gray">Fearless</small><br/>
+                            <small class="text-blue">Brand & Web</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-chris.jpg" alt="Chris Cairns" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Chris Cairns,<br/>
+                            <small class="text-gray">Skylight Digital</small><br/>
+                            <small class="text-blue">Priorities</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-brandy.jpg" alt="Brandy Hays Morrison" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Brandy Hays Morrison,<br/>
+                            <small class="text-gray">STSI</small><br/>
+                            <small class="text-blue">Internal Communications</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-nic.jpg" alt="Nic Kayless Wissman" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Nic Kayless Wissman,<br/>
+                            <small class="text-gray">Truss Works</small><br/>
+                            <small class="text-blue">Membership Structure</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <img src="@/assets/person-zach.jpg" alt="Zach Berke" class="img-fluid pb-4" />
+                        <h6 class="text-gray">
+                            Zach Berke,<br/>
+                            <small>Exygy</small><br/>
+                            <small>Alternate Member</small>
+                        </h6>
                     </div>
                 </div>
             </div>

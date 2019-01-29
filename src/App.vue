@@ -3,7 +3,7 @@
         
         <Nav/>
         <router-view/>
-        <Nav/>
+        <Nav class="pt-5 pt-sm-0"/>
         
     </div>
 </template>

@@ -36,7 +36,7 @@
         
         <div class="container py-5">
             <div class="row justify-content-md-start">
-                <div class="col-md-6 py-5">
+                <div class="col-md-6 py-md-5">
                     <h3 class="text-red">What does digital transformation look like?</h3>
                     <p>True digital transformation within the government has meaningful, tangible benefits for the public.</p>
                     <p>It means that the hundreds of millions of people who interact with our government could do so easily, efficiently, and dare we say, even enthusiastically through their phones, tablets, and computers. </p>
@@ -48,7 +48,7 @@
         
         <div class="bg-gray">
             <div class="container py-5">
-                <h1 class="text-blue">Stronger together.</h1>
+                <h1 class="text-blue pt-4">Stronger together.</h1>
                 <p>The current “big box” contractor model is failing to deliver the kinds of collaboration, transparency, and efficiency that smaller, more forward-thinking firms excel at. Our goal is to collaborate, not compete by bringing like-minded small to midsize companies together to work toward the common mission of serving the American public by improving how government works.</p>
                 <h3 class="text-gray mt-5">Our manifesto to do just that.</h3>
 
@@ -79,15 +79,9 @@
         </div>
         
         <div class="bg-parallax">
-            <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
+            <parallax :speed-factor=".1" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
                 <img src="@/assets/bg-rectangle-blue.png" />
             </parallax>
-        </div>
-        
-        <div class="bg-blue text-white">
-            <div class="container py-5">
-                <h2 class="text-center text-white py-5"><i>Accelerating government digital transformation.</i></h2>
-            </div>
         </div>
 
     </section>

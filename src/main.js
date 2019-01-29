@@ -8,7 +8,20 @@ import '@/main.less'
 
 Vue.config.productionTip = false
 
+
+
+// Form Validation
+import VeeValidate from 'vee-validate'
+Vue.use(VeeValidate)
+
+// Parallax Scrolling
+import Parallax from 'vue-parallaxy'
+
+
+
 new Vue({
   router,
   render: h => h(App)
 }).$mount('#app')
+
+
