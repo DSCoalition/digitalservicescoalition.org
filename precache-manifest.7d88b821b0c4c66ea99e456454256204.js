@@ -150,9 +150,5 @@ self.__precacheManifest = [
   {
     "revision": "4fe79b59345bbbdc7678",
     "url": "/digitalservicescoalition.org/css/app.4605da5a.css"
-  },
-  {
-    "revision": "791b0a6eb23d7d14f34f6e8fd903e390",
-    "url": "/digitalservicescoalition.org/CNAME"
   }
 ];
