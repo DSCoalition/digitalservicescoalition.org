@@ -206,7 +206,7 @@
                         <img src="@/assets/person-chris.jpg" alt="Chris Cairns" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Chris Cairns,<br/>
-                            <small class="text-gray">Skylight Digital</small><br/>
+                            <small class="text-gray">Skylight</small><br/>
                             <small class="text-blue">Priorities</small>
                         </h6>
                     </div>
