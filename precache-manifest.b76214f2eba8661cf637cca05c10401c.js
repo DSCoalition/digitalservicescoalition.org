@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
   {
-    "revision": "0557b5f77bdf9b8ca059",
-    "url": "/js/app.39c1ce34.js"
+    "revision": "d43c2a9ed3e2ab5c5b7c",
+    "url": "/js/app.6e6bcd5e.js"
   },
   {
     "revision": "06e314dbbd9b15674a22",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "7d43a56352522b1f451dcbbcb6c81d13",
+    "revision": "492a83da110c2e0cbfc2eb36110c28af",
     "url": "/index.html"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "0557b5f77bdf9b8ca059",
+    "revision": "d43c2a9ed3e2ab5c5b7c",
     "url": "/css/app.4605da5a.css"
   },
   {
