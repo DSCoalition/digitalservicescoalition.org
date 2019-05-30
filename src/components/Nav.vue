@@ -28,6 +28,9 @@
                     <router-link to="/membership" class="nav-link">Membership</router-link>
                 </li>
                 <li class="nav-item">
+                    <a href="https://shop.digitalservicescoalition.org/" class="nav-link" target="_blank">Shop</a>
+                </li>
+                <li class="nav-item">
                     <router-link to="/contact" class="nav-link">Contact</router-link>
                 </li>
             </ul>
