@@ -28,6 +28,9 @@
                     <router-link to="/membership" class="nav-link">Membership</router-link>
                 </li>
                 <li class="nav-item">
+                    <a href="https://medium.com/@DigitalServicesCoalition" class="nav-link" target="_blank">News</a>
+                </li>
+                <li class="nav-item">
                     <a href="https://shop.digitalservicescoalition.org/" class="nav-link" target="_blank">Shop</a>
                 </li>
                 <li class="nav-item">
