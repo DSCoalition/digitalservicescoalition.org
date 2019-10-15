@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/person-brandy.3108c5a3.jpg"
   },
   {
-    "revision": "06e314dbbd9b15674a22",
-    "url": "/css/chunk-vendors.2da46af1.css"
+    "revision": "5bde5ab743a044ce6a6b",
+    "url": "/css/chunk-vendors.6acb9ff2.css"
   },
   {
     "revision": "7dc3043a2b3c800b7a60a03f73cde5ce",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
   {
-    "revision": "3c32e38d7ed14c4c44d5",
-    "url": "/js/app.c2e825d6.js"
+    "revision": "c4bb5ae1d55a29891c09",
+    "url": "/js/app.a929f80e.js"
   },
   {
-    "revision": "06e314dbbd9b15674a22",
-    "url": "/js/chunk-vendors.79335ce6.js"
+    "revision": "5bde5ab743a044ce6a6b",
+    "url": "/js/chunk-vendors.c2821151.js"
   },
   {
     "revision": "bccfb49358060fd73a58282c0020975a",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "1500b2122e7a746e66be8bd4a9be81f1",
+    "revision": "d41337065446fe00eadf2ee3f7dca937",
     "url": "/index.html"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "3c32e38d7ed14c4c44d5",
+    "revision": "c4bb5ae1d55a29891c09",
     "url": "/css/app.a2989a32.css"
   },
   {
