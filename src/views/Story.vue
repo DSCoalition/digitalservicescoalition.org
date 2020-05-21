@@ -223,7 +223,7 @@
                         <h6 class="text-blue">
                             Dan Levenson<br/>
                             <small class="text-gray">Agile Six</small><br/>
-                            <small class="text-blue">President</small>
+                            <small class="text-blue">President, Board Member</small>
                         </h6>
                     </div>
                     <div class="col-lg col-md-4 col-6 mx-auto">
@@ -247,7 +247,7 @@
                         <h6 class="text-blue">
                             Sarah Ruggless<br/>
                             <small class="text-gray">Flexion</small><br/>
-                            <small class="text-blue">Member</small>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
                     <div class="col-lg col-md-4 col-6 mx-auto">
@@ -255,7 +255,7 @@
                         <h6 class="text-blue">
                             Greg Gershman<br/>
                             <small class="text-gray">Ad Hoc</small><br/>
-                            <small class="text-blue">Member</small>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
                     <div class="col-lg col-md-4 col-6 mx-auto">
@@ -263,7 +263,7 @@
                         <h6 class="text-blue">
                             Eduardo Ortiz<br/>
                             <small class="text-gray">&Partners</small><br/>
-                            <small class="text-blue">Member</small>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
                     <div class="col-lg col-md-4 col-6 mx-auto">
@@ -271,7 +271,7 @@
                         <h6 class="text-blue">
                             Jessi Bull<br/>
                             <small class="text-gray">Nava</small><br/>
-                            <small class="text-blue">Member</small>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
                 </div>
@@ -284,11 +284,11 @@
 
 
 <script>
-    import Parallax from 'vue-parallaxy'
+import Parallax from "vue-parallaxy";
 
-    export default {
-      components: {
-        Parallax
-      }
-    }
+export default {
+  components: {
+    Parallax,
+  },
+};
 </script>
