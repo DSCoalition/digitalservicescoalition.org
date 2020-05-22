@@ -216,54 +216,62 @@
         
         <div class="bg-gray">
             <div class="container py-5">
-                <h3 class="text-gray py-3">Steering Committee</h3>
+                <h3 class="text-gray py-3">Board Members</h3>
                 <div class="row text-center">
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-dan.jpg" alt="Dan Levenson" class="img-fluid pb-4" />
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-dan.jpg" alt="Dan Levenson" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Dan Levenson,<br/>
+                            Dan Levenson<br/>
                             <small class="text-gray">Agile Six</small><br/>
-                            <small class="text-blue">Organization Structure</small>
+                            <small class="text-blue">President, Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-delali.jpg" alt="Delali Dzirasa" class="img-fluid pb-4" />
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-marc.jpg" alt="Marc Jones" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Delali Dzirasa,<br/>
-                            <small class="text-gray">Fearless</small><br/>
-                            <small class="text-blue">Brand & Web</small>
+                            Marc Jones<br/>
+                            <small class="text-gray">CivicActions</small><br/>
+                            <small class="text-blue">Secretary</small>
                         </h6>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-chris.jpg" alt="Chris Cairns" class="img-fluid pb-4" />
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-tyra.jpg" alt="Tyra Blew" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Chris Cairns,<br/>
-                            <small class="text-gray">Skylight</small><br/>
-                            <small class="text-blue">Priorities</small>
+                            Tyra Blew<br/>
+                            <small class="text-gray">&Partners</small><br/>
+                            <small class="text-blue">Treasurer</small>
                         </h6>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-brandy.jpg" alt="Brandy Hays Morrison" class="img-fluid pb-4" />
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-sarah.jpg" alt="Sarah Ruggless" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Brandy Hays Morrison,<br/>
-                            <small class="text-gray">STSI</small><br/>
-                            <small class="text-blue">Internal Communications</small>
+                            Sarah Ruggless<br/>
+                            <small class="text-gray">Flexion</small><br/>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-nic.jpg" alt="Nic Kayless Wissman" class="img-fluid pb-4" />
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-greg.jpg" alt="Greg Gershman" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Nic Kayless Wissman,<br/>
-                            <small class="text-gray">Truss Works</small><br/>
-                            <small class="text-blue">Membership Structure</small>
+                            Greg Gershman<br/>
+                            <small class="text-gray">Ad Hoc</small><br/>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-6">
-                        <img src="@/assets/person-zach.jpg" alt="Zach Berke" class="img-fluid pb-4" />
-                        <h6 class="text-gray">
-                            Zach Berke,<br/>
-                            <small>Exygy</small><br/>
-                            <small>Alternate Member</small>
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-eduardo.jpg" alt="Eduardo Ortiz" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Eduardo Ortiz<br/>
+                            <small class="text-gray">&Partners</small><br/>
+                            <small class="text-blue">Board Member</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg col-md-4 col-6 mx-auto">
+                        <img src="@/assets/board-member-jessi.jpg" alt="Jessi Bull" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Jessi Bull<br/>
+                            <small class="text-gray">Nava</small><br/>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
                 </div>
@@ -276,11 +284,11 @@
 
 
 <script>
-    import Parallax from 'vue-parallaxy'
+import Parallax from "vue-parallaxy";
 
-    export default {
-      components: {
-        Parallax
-      }
-    }
+export default {
+  components: {
+    Parallax,
+  },
+};
 </script>
