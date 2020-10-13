@@ -158,12 +158,12 @@
                     
                     <div class="row mt-5">
                         <div class="col-md-4 col-2">
-                            <a href="https://www.andpartners.io/">
-                                <img src="@/assets/logo-andpartners.png" class="img-fluid" alt="And Partners" />
+                            <a href="https://coforma.io/">
+                                <img src="@/assets/logo-coforma.png" class="img-fluid" alt="Coforma" />
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We are true believers that technology, policy, and a critical eye to the challenges that society faces can help bring about equality and improve all of our ways of life. We partner with bold organizations to design, build, and transform digital services that deliver positive customer outcomes and disrupt the status quo.”</p> 
+                            <p>“We craft creative solutions and build technology products that improve the communities our clients serve. We work closely with partners, including many in this coalition, to shape digital services that people rely on, co-creating progress that serves a common purpose.”</p> 
                         </div>
                     </div>
                     
@@ -238,7 +238,7 @@
                         <img src="@/assets/board-member-tyra.jpg" alt="Tyra Blew" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Tyra Blew<br/>
-                            <small class="text-gray">&Partners</small><br/>
+                            <small class="text-gray">Coforma</small><br/>
                             <small class="text-blue">Treasurer</small>
                         </h6>
                     </div>
@@ -262,7 +262,7 @@
                         <img src="@/assets/board-member-eduardo.jpg" alt="Eduardo Ortiz" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Eduardo Ortiz<br/>
-                            <small class="text-gray">&Partners</small><br/>
+                            <small class="text-gray">Coforma</small><br/>
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
