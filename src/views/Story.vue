@@ -191,8 +191,8 @@
 
                     <div class="row mt-5">
                         <div class="col-md-4 col-2">
-                            <a href="https://stsiinc.com/">
-                                <img src="@/assets/logo-stsi.png" class="img-fluid" alt="STSI" />
+                            <a href="https://pluribusdigital.com/">
+                                <img src="@/assets/logo-pluribus.png" class="img-fluid" alt="Pluribus Digital" />
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
