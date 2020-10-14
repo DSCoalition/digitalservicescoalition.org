@@ -1,23 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e2b249c6098eadcd407c0d5118c0638d",
-    "url": "/img/logo-fearless.e2b249c6.png"
+    "revision": "bccfb49358060fd73a58282c0020975a",
+    "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "bccfb49358060fd73a58282c0020975a",
-    "url": "/img/bg-triangle-blue2.bccfb493.png"
+    "revision": "e3d43157f859db9368bc27d11420142a",
+    "url": "/img/logo-andpartners.e3d43157.png"
   },
   {
     "revision": "07e836b956236331901f",
     "url": "/css/chunk-vendors.6acb9ff2.css"
-  },
-  {
-    "revision": "7dc3043a2b3c800b7a60a03f73cde5ce",
-    "url": "/img/logo-stsi.7dc3043a.png"
   },
   {
     "revision": "0182e7b663f39cc445b7768a4b373e7c",
@@ -80,16 +76,16 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
   {
-    "revision": "c87f118c2e9316b0b712",
-    "url": "/js/app.c8399c36.js"
+    "revision": "e2b249c6098eadcd407c0d5118c0638d",
+    "url": "/img/logo-fearless.e2b249c6.png"
+  },
+  {
+    "revision": "c781316d9fd653fa816f",
+    "url": "/js/app.9e6176d7.js"
   },
   {
     "revision": "07e836b956236331901f",
     "url": "/js/chunk-vendors.edd95e8e.js"
-  },
-  {
-    "revision": "e3d43157f859db9368bc27d11420142a",
-    "url": "/img/logo-andpartners.e3d43157.png"
   },
   {
     "revision": "0f1ce24f55c85f4c5d04a417a1fb8756",
@@ -98,6 +94,10 @@ self.__precacheManifest = [
   {
     "revision": "b8290fa0f498af5da1c57d62cf892b31",
     "url": "/img/board-member-dan.b8290fa0.jpg"
+  },
+  {
+    "revision": "42eea2f6d8501d66d88550c30a3dd357",
+    "url": "/img/logo-pluribus.42eea2f6.png"
   },
   {
     "revision": "fb7029a1a9b7a745e772a4a010c6c8a5",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "b4802c579db65c5c6ab17d43a321da92",
+    "revision": "96b975369e2c754c2cf478571b23ff82",
     "url": "/index.html"
   },
   {
@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "c87f118c2e9316b0b712",
+    "revision": "c781316d9fd653fa816f",
     "url": "/css/app.a2989a32.css"
   },
   {
