@@ -10,7 +10,7 @@
         <div class="container py-5">
             <div class="row justify-content-md-between">
                 <div class="col-md-6 py-md-5">
-                    <h1 class="text-blue my-lg-5">Contact us.</h1>
+                    <h1 class="text-blue my-lg-5">Contact us</h1>
                 </div>
 
                 <div class="col-md-5 py-md-5">
@@ -27,11 +27,10 @@
 
 
 <script>
-  import Parallax from 'vue-parallaxy'
-  export default {
-    components: {
-        Parallax
-    }
-  }
+import Parallax from "vue-parallaxy";
+export default {
+  components: {
+    Parallax,
+  },
+};
 </script>
-
