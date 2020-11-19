@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e2b249c6098eadcd407c0d5118c0638d",
-    "url": "/img/logo-fearless.e2b249c6.png"
+    "revision": "bccfb49358060fd73a58282c0020975a",
+    "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "bccfb49358060fd73a58282c0020975a",
-    "url": "/img/bg-triangle-blue2.bccfb493.png"
+    "revision": "619ac22e13cae3399fe7051932ced38f",
+    "url": "/img/logo-mss.619ac22e.png"
   },
   {
     "revision": "07e836b956236331901f",
     "url": "/css/chunk-vendors.6acb9ff2.css"
+  },
+  {
+    "revision": "821f71d57b6b94ebea29fef6dffcfaf1",
+    "url": "/img/logo-kind.821f71d5.png"
   },
   {
     "revision": "0182e7b663f39cc445b7768a4b373e7c",
@@ -26,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "a12b7ad3f37789bcf833894f559570b6",
     "url": "/img/bg-triangle-pink2.a12b7ad3.png"
+  },
+  {
+    "revision": "f74e864ed73304abebdd98ba48be2714",
+    "url": "/img/logo-ci.f74e864e.png"
   },
   {
     "revision": "b1a0097268463b6075cb02db777b1c8b",
@@ -76,12 +84,20 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
   {
-    "revision": "e5c868e76bb3f795ce2d",
-    "url": "/js/app.96d351e1.js"
+    "revision": "e2b249c6098eadcd407c0d5118c0638d",
+    "url": "/img/logo-fearless.e2b249c6.png"
+  },
+  {
+    "revision": "2ba634d1fdd2bfd5e4e0",
+    "url": "/js/app.648fd4a6.js"
   },
   {
     "revision": "07e836b956236331901f",
     "url": "/js/chunk-vendors.edd95e8e.js"
+  },
+  {
+    "revision": "b8afa91dc42f920aa0d4b7a63f7f28ba",
+    "url": "/img/logo-mobomo.b8afa91d.png"
   },
   {
     "revision": "0f1ce24f55c85f4c5d04a417a1fb8756",
@@ -102,6 +118,14 @@ self.__precacheManifest = [
   {
     "revision": "1ac13a0cc59990cdb2c4de96b1183d72",
     "url": "/img/board-member-sarah.1ac13a0c.jpg"
+  },
+  {
+    "revision": "85c1f0e1c65af37b051dffd2b4c86e37",
+    "url": "/img/logo-bixal.85c1f0e1.png"
+  },
+  {
+    "revision": "c9f1f6636456d4a3feb1aec456eba2f6",
+    "url": "/img/logo-ctg.c9f1f663.png"
   },
   {
     "revision": "5a6f946fe43d4acfcc670505dfab3fff",
@@ -136,7 +160,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "d9d64e4dbbe535aa5c50fe8fc9d7eddd",
+    "revision": "0741a1099d6689351d1269fb8f6c7a6e",
     "url": "/index.html"
   },
   {
@@ -148,7 +172,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "e5c868e76bb3f795ce2d",
+    "revision": "2ba634d1fdd2bfd5e4e0",
     "url": "/css/app.a2989a32.css"
   },
   {
