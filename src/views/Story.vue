@@ -26,9 +26,9 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-md-10">
-                    <h3 class="text-gray mt-5">Our Community</h3>
+                    <h2 class="text-gray mt-5">Our community</h2>
                     <p>The Coalition formed from the shared ideals of 16 companies and continues to grow as other firms join the call.</p>
-                    <p><i>* = Founding Member</i></p>
+                    <p><i>* = Founding member</i></p>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We look forward to working with the the coalition to make a difference in the daily lives of users through improved interactions with government digital services built specifically for them.” <i>*</i></p> 
+                            <p>“We look forward to working with the coalition to make a difference in the daily lives of users through improved interactions with government digital services built specifically for them.” <i>*</i></p> 
                         </div>
                     </div>
 
@@ -63,7 +63,7 @@
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector – which we believe will deliver better digital experiences for our citizens.” <i>*</i></p> 
+                            <p>“We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i></p> 
                         </div>
                     </div>
 
@@ -129,7 +129,7 @@
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We believe in using our skills—human-centered design, iterative agile software development, and modern product approaches—to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i></p> 
+                            <p>“We believe in using our skills — human-centered design, iterative agile software development, and modern product approaches — to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i></p> 
                         </div>
                     </div>
                     
@@ -186,7 +186,7 @@
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We believe in creating digital experiences that elevate government missions. MetroStar Systems is full of leaders, technologists, artists, and everything in between. We know the best teams - the ones that power change - bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”</p> 
+                            <p>“We believe in creating digital experiences that elevate government missions. MetroStar Systems is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”</p> 
                         </div>
                     </div>
 
@@ -197,7 +197,7 @@
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We believe that we can help the government ask the right questions, find the right answers, conceptualize and co-design what the experience can become, and build solutions that delight the government’s customers—the public. We don’t want to play by the rules, but change how the game is played.” <i>*</i></p> 
+                            <p>“We believe that we can help the government ask the right questions, find the right answers, conceptualize and co-design what the experience can become, and build solutions that delight the government’s customers — the public. We don’t want to play by the rules, but change how the game is played.” <i>*</i></p> 
                         </div>
                     </div>
 
