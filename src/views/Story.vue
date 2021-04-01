@@ -37,7 +37,7 @@
                     <div class="row mt-5">
                         <div class="col-md-4 col-2">
                             <a href="https://540.co">
-                                <img src="@/assets/logo-540.png" class="img-fluid" alt="540" />
+                                <img src="@/assets/540-Logo-Primary-Black.png" class="img-fluid" alt="540" />
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
