@@ -80,6 +80,10 @@ self.__precacheManifest = [
     "url": "/img/logo-nava.31196a3f.png"
   },
   {
+    "revision": "e722e06e0c3cf228b4caee1add43ac5e",
+    "url": "/img/540-Logo-Primary-Black.e722e06e.png"
+  },
+  {
     "revision": "6916132515d14c524711da80d24c5f04",
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
@@ -88,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "2ba634d1fdd2bfd5e4e0",
-    "url": "/js/app.648fd4a6.js"
+    "revision": "0b75b1a9ea2dce4a83eb",
+    "url": "/js/app.73ceed07.js"
   },
   {
     "revision": "07e836b956236331901f",
@@ -160,7 +164,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "0741a1099d6689351d1269fb8f6c7a6e",
+    "revision": "b16c2ef20e3ef888af0841ff0dc33e99",
     "url": "/index.html"
   },
   {
@@ -172,7 +176,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "2ba634d1fdd2bfd5e4e0",
+    "revision": "0b75b1a9ea2dce4a83eb",
     "url": "/css/app.a2989a32.css"
   },
   {
