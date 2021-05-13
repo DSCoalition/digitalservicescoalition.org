@@ -181,12 +181,12 @@
 
                     <div class="row mt-5">
                         <div class="col-md-4 col-2">
-                            <a href="https://www.metrostarsystems.com/">
-                                <img src="@/assets/logo-mss.png" class="img-fluid" alt="MetroStar Systems" />
+                            <a href="https://www.metrostar.com/">
+                                <img src="@/assets/MetroStar_Logos_stacked-01.svg" class="img-fluid" alt="MetroStar" />
                             </a>
                         </div>
                         <div class="col-md-8 col-10">
-                            <p>“We believe in creating digital experiences that elevate government missions. MetroStar Systems is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”</p> 
+                            <p>“We believe in creating digital experiences that elevate government missions. MetroStar is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”</p> 
                         </div>
                     </div>
 
