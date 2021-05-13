@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/img/logo-mobomo.b8afa91d.png"
   },
   {
-    "revision": "07e836b956236331901f",
+    "revision": "6bb463ac2c8066d33dcb",
     "url": "/css/chunk-vendors.6acb9ff2.css"
   },
   {
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "3e0abae613a50f37a75a",
-    "url": "/js/app.12bcff66.js"
+    "revision": "a9d73a8372d11b98b172",
+    "url": "/js/app.66669315.js"
   },
   {
-    "revision": "07e836b956236331901f",
-    "url": "/js/chunk-vendors.edd95e8e.js"
+    "revision": "6bb463ac2c8066d33dcb",
+    "url": "/js/chunk-vendors.7067ed22.js"
   },
   {
     "revision": "0f1ce24f55c85f4c5d04a417a1fb8756",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "fb0a91501ecd1107248bf6048436e95b",
+    "revision": "ae5e2ca8a7bad9ad46d4603bcc925250",
     "url": "/index.html"
   },
   {
@@ -176,7 +176,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "3e0abae613a50f37a75a",
+    "revision": "a9d73a8372d11b98b172",
     "url": "/css/app.a2989a32.css"
   },
   {
