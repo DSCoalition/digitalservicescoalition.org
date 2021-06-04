@@ -11,6 +11,10 @@
             <div class="row justify-content-md-between">
                 <div class="col-md-6 py-md-5">
                     <h1 class="text-magenta my-md-5">Join the coalition</h1>
+
+                    <div class="alert alert-success" role="alert">
+                        <b>Announcing that we are now accepting new member applications for 2021 through June 13. To find out more about joining the DSC and the application process click this link: <a href="https://lnkd.in/dYaHpgU">https://lnkd.in/dYaHpgU</a></b>
+                    </div>
                     
                     <h2 class="text-gray mt-5">Membership benefits</h2>
                     <ul>
