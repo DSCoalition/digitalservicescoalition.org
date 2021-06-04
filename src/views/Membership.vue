@@ -13,7 +13,8 @@
                     <h1 class="text-magenta my-md-5">Join the coalition</h1>
 
                     <div class="alert alert-success" role="alert">
-                        <b>Announcing that we are now accepting new member applications for 2021 through June 13. To find out more about joining the DSC and the application process click this link: <a href="https://lnkd.in/dYaHpgU">https://lnkd.in/dYaHpgU</a></b>
+                        <h2 class="h4"><b>Announcement</b></h2>
+                        <b>We are now accepting new member applications for 2021 through June 13. Find out more about <a href="https://lnkd.in/dYaHpgU">joining the DSC</a> and the application process.</b>
                     </div>
                     
                     <h2 class="text-gray mt-5">Membership benefits</h2>
