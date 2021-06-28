@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "ab255ed82fc8494ca7a8",
-    "url": "/js/app.3169c4bb.js"
+    "revision": "63e07ef10ca56015d646",
+    "url": "/js/app.ffcaad19.js"
   },
   {
     "revision": "6bb463ac2c8066d33dcb",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "accef38893aad41910c47d3af2417e6f",
+    "revision": "149fb51de40bbe407a7687bfb9054681",
     "url": "/index.html"
   },
   {
@@ -176,7 +176,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "ab255ed82fc8494ca7a8",
+    "revision": "63e07ef10ca56015d646",
     "url": "/css/app.a2989a32.css"
   },
   {
