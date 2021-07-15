@@ -46,7 +46,7 @@
                         “We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="http://www.awlstrategies.com/" img="AWL_Logo_Color_MAIN.png" img-alt="AWL Strategies">
+                    <MemberItem class="row mt-5" link-url="https://www.awlstrategies.com/" img="AWL_Logo_Color_MAIN.png" img-alt="AWL Strategies">
                         “Our mission is great business outcomes through purpose-driven communications. We believe shared leadership creates strength, and we bring a stack of chairs with us to every table. We joined the DSC because at this table, leaders work together to make change across government fit, for everyone.”
                     </MemberItem>
 
@@ -78,7 +78,7 @@
                         “We believe in using our skills — human-centered design, iterative agile software development, and modern product approaches — to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="http://fearless.tech" img="logo-fearless.png" img-alt="Fearless">
+                    <MemberItem class="row mt-5" link-url="https://fearless.tech" img="logo-fearless.png" img-alt="Fearless">
                         “We believe that the government has the potential to be better, and we want to help influence that change from the ground up. Our vision is to create a world where good software powers the things that matter, so we measure our success by our positive impact on the people in our communities.” <i>*</i>
                     </MemberItem>
                     
@@ -124,7 +124,7 @@
                         “Raft LLC brings radical transparency and a commitment to mission success, bridging the gap between humans and data for better, sustainable program outcomes. Inspired by the Raft Consensus Model, we are obsessed with inclusive problem solving and using technology to improve lives.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-ul="http://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
+                    <MemberItem class="row mt-5" link-ul="https://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
                         “Simple Technology believes Government should operate at the speed of innovation. Our engineers (multi-cloud, low code, and open source) are passionate about using cloud-native technologies to automate ITOps activities and business processes so agencies can focus on the mission.”
                     </MemberItem>
 
@@ -132,7 +132,7 @@
                         “Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="http://www.skywarditsolutions.com/" img="logo-skyward.jpg" img-alt="Skyward IT Solutions">
+                    <MemberItem class="row mt-5" link-url="https://www.skywarditsolutions.com/" img="logo-skyward.jpg" img-alt="Skyward IT Solutions">
                         “Delivering lasting federal and state initiatives through empathy, collaboration, and innovation is our ethos. We coalesce with this highly dynamic consortium of teams to continue on the endeavors of empowering the government and driving positive change, together.”
                     </MemberItem>
 
