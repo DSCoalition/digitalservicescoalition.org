@@ -46,6 +46,10 @@
                         “We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i>
                     </MemberItem>
 
+                    <MemberItem class="row mt-5" link-url="http://www.awlstrategies.com/" img="AWL_Logo_Color_MAIN.png" img-alt="AWL Strategies">
+                        “Our mission is great business outcomes through purpose-driven communications. We believe shared leadership creates strength, and we bring a stack of chairs with us to every table. We joined the DSC because at this table, leaders work together to make change across government fit, for everyone.”
+                    </MemberItem>
+
                     <MemberItem class="row mt-5" link-url="https://www.bixal.com/" img="logo-bixal.png" img-alt="Bixal">
                         “We are a mission-driven organization determined to improve people’s lives through human-centered strategies and transformative technologies. We deliver on this promise by partnering with leading federal agencies to conceive and create powerful, data-driven customer experiences.”
                     </MemberItem>
@@ -66,6 +70,10 @@
                         “We craft creative solutions and build technology products that improve the communities our clients serve. We work closely with partners, including many in this coalition, to shape digital services that people rely on, co-creating progress that serves a common purpose.” <i>*</i>
                     </MemberItem>
 
+                    <MemberItem class="row mt-5" link-url="https://esimplicity.com/" img="eSimplicity.jpg" img-alt="eSimplicity">
+                        “eSimplicity is excited to be part of the energetic and enthusiastic Digital Services Coalition to nurture and grow with the civic tech community. Our relentless drive to invent new ways that delight our users and customers never stops. Our engineers and strategists focus on using technology to totally transform the existing user and customer experience and reimagine a better experience than what exists today.”
+                    </MemberItem>
+
                     <MemberItem class="row mt-5" link-url="https://exygy.com/" img="logo-exygy.png" img-alt="Exygy">
                         “We believe in using our skills — human-centered design, iterative agile software development, and modern product approaches — to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i>
                     </MemberItem>
@@ -77,13 +85,13 @@
                     <MemberItem class="row mt-5" link-url="https://www.flexion.us/" img="logo-flexion.png" img-alt="Flexion">
                         “We have the strong belief that providing exceptional, accessible, and user-centric digital capabilities to the government will improve people’s everyday lives. Partnering with other innovative, agile, and forward-thinking firms will just accelerate and magnify the difference we can make.” <i>*</i>
                     </MemberItem>
-                </div>
-                
-                <div class="col-md-5">
+
                     <MemberItem class="row mt-5" link-url="https://kindsys.us/" img="logo-kind.png" img-alt="Kind Systems">
                         “Using modern web, mobile, and data technologies combined with human-centric design, the team at Kind Systems builds approachable, fast digital services in an agile fashion based on the principles of the Digital Services Playbook and our own private sector experience.”
                     </MemberItem>
-
+                </div>
+                
+                <div class="col-md-5">
                     <MemberItem class="row mt-5" link-url="https://mediabarninc.com/" img="logo-mediabarn.png" img-alt="Mediabarn">
                         “We participate in this coalition and believe in its mission because we feel the government (at all levels), and by extension all people, deserve to be served by companies who take a modern, efficient, and honest approach to providing digital goods and services.” <i>*</i>
                     </MemberItem>
@@ -108,13 +116,24 @@
                         “We believe this group represents a unique and new way of doing business by focusing on quality, long-term relationships and delivering value to our clients. We’re excited to be part of this mission.” <i>*</i>
                     </MemberItem>
 
-
                     <MemberItem class="row mt-5" link-url="https://pluribusdigital.com/" img="logo-pluribus.png" img-alt="Pluribus Digital">
                         “Government missions make an impact on people’s lives. Software can be the ‘force multiplier’ to execute those missions. We believe that the government deserves the best in technology and talent in order to be as effective as possible.” <i>*</i>
                     </MemberItem>
 
+                    <MemberItem class="row mt-5" link-ul="https://goraft.tech/" img="logo-raft.jpg" img-alt="Raft LLC">
+                        “Raft LLC brings radical transparency and a commitment to mission success, bridging the gap between humans and data for better, sustainable program outcomes. Inspired by the Raft Consensus Model, we are obsessed with inclusive problem solving and using technology to improve lives.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-ul="http://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
+                        “Simple Technology believes Government should operate at the speed of innovation. Our engineers (multi-cloud, low code, and open source) are passionate about using cloud-native technologies to automate ITOps activities and business processes so agencies can focus on the mission.”
+                    </MemberItem>
+
                     <MemberItem class="row mt-5" link-url="https://skylight.digital/" img="logo-skylight.png" img-alt="Skylight">
                         “Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="http://www.skywarditsolutions.com/" img="logo-skyward.jpg" img-alt="Skyward IT Solutions">
+                        “Delivering lasting federal and state initiatives through empathy, collaboration, and innovation is our ethos. We coalesce with this highly dynamic consortium of teams to continue on the endeavors of empowering the government and driving positive change, together.”
                     </MemberItem>
 
                     <MemberItem class="row mt-5" link-url="https://www.thesocompany.com/" img="logo-thesocompany.png" img-alt="The So Company">
@@ -123,6 +142,10 @@
 
                     <MemberItem class="row mt-5" link-url="https://truss.works/" img="logo-truss.png" img-alt="Truss">
                         “The public has come to expect more because of the digital services they effortlessly enjoy every day. We want to help bridge the gap between public expectation and government delivery by improving procurement, design, and build processes to deliver high-value, modern solutions.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://wheelhousegroup.com/" img="Wheelhouse.png" img-alt="Wheelhouse Group, Inc">
+                        “Digital transformation is complex and requires people-focused solutions. Our expert change leaders help federal clients do the nuanced work to prepare and engage employees and the public to enthusiastically adopt change. At Wheelhouse we move organizations from Reluctance to Results™.”
                     </MemberItem>
                 </div>
             </div>
