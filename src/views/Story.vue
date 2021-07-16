@@ -34,249 +34,119 @@
 
             <div class="row justify-content-md-between">
                 <div class="col-md-5">
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://540.co">
-                                <img src="@/assets/540-Logo-Primary-Black.png" class="img-fluid" alt="540" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe in the value of moving fast, showing capabilities (rather than talking about them), and doing whatever it takes to make our government operate in a more effective manner. The Coalition enables us to collaborate, share ideas, and further those ideals.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://540.co" img="540-Logo-Primary-Black.png" img-alt="540">
+                        “We believe in the value of moving fast, showing capabilities (rather than talking about them), and doing whatever it takes to make our government operate in a more effective manner. The Coalition enables us to collaborate, share ideas, and further those ideals.” <i>*</i>
+                    </MemberItem>
                     
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://adhocteam.us">
-                                <img src="@/assets/logo-adhoc.png" class="img-fluid" alt="Ad Hoc" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We look forward to working with the coalition to make a difference in the daily lives of users through improved interactions with government digital services built specifically for them.” <i>*</i></p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.agile6.com">
-                                <img src="@/assets/logo-agilesix.png" class="img-fluid" alt="Agile Six" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i></p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.bixal.com/">
-                                <img src="@/assets/logo-bixal.png" class="img-fluid" alt="Bixal" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We are a mission-driven organization determined to improve people’s lives through human-centered strategies and transformative technologies. We deliver on this promise by partnering with leading federal agencies to conceive and create powerful, data-driven customer experiences.”</p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://capitaltg.com">
-                                <img src="@/assets/logo-ctg.png" class="img-fluid" alt="Capital Technology Group" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“Working in collaboration, the government and a coalition of like-minded firms can more fully realize the goal of designing, building, and delivering the most effective and transformative digital services solutions that current technology and imagination make possible.”</p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://civicactions.com/">
-                                <img src="@/assets/logo-civicactions.png" class="img-fluid" alt="Civic Actions" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We’re honored to be part of a strong network of firms who embrace the values of free and open-source software, knowledge sharing, collaboration, and contributing back while fostering a culture of openness and learning in government to build the next generation of modern public services.” <i>*</i></p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.clarityinnovates.com/">
-                                <img src="@/assets/logo-ci.png" class="img-fluid" alt="Clarity Innovations" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We connect people with the technology necessary to make our country, and our world, a better, safer place. Discovering the technology and understanding the need is part of that quest. We practice servant leadership, respectful dialogue, technical excellence, and supporting and trusting one another.”</p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://coforma.io/">
-                                <img src="@/assets/logo-coforma.png" class="img-fluid" alt="Coforma" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We craft creative solutions and build technology products that improve the communities our clients serve. We work closely with partners, including many in this coalition, to shape digital services that people rely on, co-creating progress that serves a common purpose.” <i>*</i></p> 
-                        </div>
-                    </div>
-
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://exygy.com/">
-                                <img src="@/assets/logo-exygy.png" class="img-fluid" alt="Exygy" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe in using our skills — human-centered design, iterative agile software development, and modern product approaches — to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://adhocteam.us" img="logo-adhoc.png" img-alt="Ad Hoc">
+                        “We look forward to working with the coalition to make a difference in the daily lives of users through improved interactions with government digital services built specifically for them.” <i>*</i>
+                    </MemberItem>
                     
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="http://fearless.tech">
-                                <img src="@/assets/logo-fearless.png" class="img-fluid" alt="Fearless" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe that the government has the potential to be better, and we want to help influence that change from the ground up. Our vision is to create a world where good software powers the things that matter, so we measure our success by our positive impact on the people in our communities.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.agile6.com" img="logo-agilesix.png" img-alt="Agile Six">
+                        “We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://www.awlstrategies.com/" img="AWL_Logo_Color_MAIN.png" img-alt="AWL Strategies">
+                        “Our mission is great business outcomes through purpose-driven communications. We believe shared leadership creates strength, and we bring a stack of chairs with us to every table. We joined the DSC because at this table, leaders work together to make change across government fit, for everyone.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://www.bixal.com/" img="logo-bixal.png" img-alt="Bixal">
+                        “We are a mission-driven organization determined to improve people’s lives through human-centered strategies and transformative technologies. We deliver on this promise by partnering with leading federal agencies to conceive and create powerful, data-driven customer experiences.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://capitaltg.com" img="logo-ctg.png" img-alt="Capital Technology Group">
+                        “Working in collaboration, the government and a coalition of like-minded firms can more fully realize the goal of designing, building, and delivering the most effective and transformative digital services solutions that current technology and imagination make possible.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://civicactions.com/" img="logo-civicactions.png" img-alt="Civic Actions">
+                        “We’re honored to be part of a strong network of firms who embrace the values of free and open-source software, knowledge sharing, collaboration, and contributing back while fostering a culture of openness and learning in government to build the next generation of modern public services.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://www.clarityinnovates.com/" img="logo-ci.png" img-alt="Clarity Innovations">
+                        “We connect people with the technology necessary to make our country, and our world, a better, safer place. Discovering the technology and understanding the need is part of that quest. We practice servant leadership, respectful dialogue, technical excellence, and supporting and trusting one another.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://coforma.io/" img="logo-coforma.png" img-alt="Coforma">
+                        “We craft creative solutions and build technology products that improve the communities our clients serve. We work closely with partners, including many in this coalition, to shape digital services that people rely on, co-creating progress that serves a common purpose.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://esimplicity.com/" img="eSimplicity.jpg" img-alt="eSimplicity">
+                        “eSimplicity is excited to be part of the energetic and enthusiastic Digital Services Coalition to nurture and grow with the civic tech community. Our relentless drive to invent new ways that delight our users and customers never stops. Our engineers and strategists focus on using technology to totally transform the existing user and customer experience and reimagine a better experience than what exists today.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://exygy.com/" img="logo-exygy.png" img-alt="Exygy">
+                        “We believe in using our skills — human-centered design, iterative agile software development, and modern product approaches — to foster healthy and resilient communities. We’re part of the coalition because we care about seeing more large-scale government services designed for inclusion, co-created with people and communities who need them most.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://fearless.tech" img="logo-fearless.png" img-alt="Fearless">
+                        “We believe that the government has the potential to be better, and we want to help influence that change from the ground up. Our vision is to create a world where good software powers the things that matter, so we measure our success by our positive impact on the people in our communities.” <i>*</i>
+                    </MemberItem>
                     
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.flexion.us/">
-                                <img src="@/assets/logo-flexion.png" class="img-fluid" alt="Flexion" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We have the strong belief that providing exceptional, accessible, and user-centric digital capabilities to the government will improve people’s everyday lives. Partnering with other innovative, agile, and forward-thinking firms will just accelerate and magnify the difference we can make.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.flexion.us/" img="logo-flexion.png" img-alt="Flexion">
+                        “We have the strong belief that providing exceptional, accessible, and user-centric digital capabilities to the government will improve people’s everyday lives. Partnering with other innovative, agile, and forward-thinking firms will just accelerate and magnify the difference we can make.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://kindsys.us/" img="logo-kind.png" img-alt="Kind Systems">
+                        “Using modern web, mobile, and data technologies combined with human-centric design, the team at Kind Systems builds approachable, fast digital services in an agile fashion based on the principles of the Digital Services Playbook and our own private sector experience.”
+                    </MemberItem>
                 </div>
                 
                 <div class="col-md-5">
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://kindsys.us/">
-                                <img src="@/assets/logo-kind.png" class="img-fluid" alt="Kind Systems" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“Using modern web, mobile, and data technologies combined with human-centric design, the team at Kind Systems builds approachable, fast digital services in an agile fashion based on the principles of the Digital Services Playbook and our own private sector experience.”</p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://mediabarninc.com/" img="logo-mediabarn.png" img-alt="Mediabarn">
+                        “We participate in this coalition and believe in its mission because we feel the government (at all levels), and by extension all people, deserve to be served by companies who take a modern, efficient, and honest approach to providing digital goods and services.” <i>*</i>
+                    </MemberItem>
                     
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://mediabarninc.com/">
-                                <img src="@/assets/logo-mediabarn.png" class="img-fluid" alt="Mediabarn" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We participate in this coalition and believe in its mission because we feel the government (at all levels), and by extension all people, deserve to be served by companies who take a modern, efficient, and honest approach to providing digital goods and services.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.metrostar.com/" img="MetroStar_Logos_stacked-01.svg" img-alt="MetroStar">
+                        “We believe in creating digital experiences that elevate government missions. MetroStar is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”
+                    </MemberItem>
 
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.metrostar.com/">
-                                <img src="@/assets/MetroStar_Logos_stacked-01.svg" class="img-fluid" alt="MetroStar" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe in creating digital experiences that elevate government missions. MetroStar is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”</p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.themostudio.com/" img="logo-mo.png" img-alt="MO Studio">
+                        “We believe that we can help the government ask the right questions, find the right answers, conceptualize and co-design what the experience can become, and build solutions that delight the government’s customers — the public. We don’t want to play by the rules, but change how the game is played.” <i>*</i>
+                    </MemberItem>
 
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.themostudio.com/">
-                                <img src="@/assets/logo-mo.png" class="img-fluid" alt="MO Studio" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe that we can help the government ask the right questions, find the right answers, conceptualize and co-design what the experience can become, and build solutions that delight the government’s customers — the public. We don’t want to play by the rules, but change how the game is played.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.mobomo.com/" img="logo-mobomo.png" img-alt="Mobomo">
+                        “An award-winning provider of digital transformation services; combining technology expertise with digital strategy, interactive marketing, and branding accelerating our customers’ digital strategy to produce innovative applications and websites.”
+                    </MemberItem>
 
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.mobomo.com/">
-                                <img src="@/assets/logo-mobomo.png" class="img-fluid" alt="Mobomo" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“An award-winning provider of digital transformation services; combining technology expertise with digital strategy, interactive marketing, and branding accelerating our customers’ digital strategy to produce innovative applications and websites.”</p> 
-                        </div>
-                    </div>
-                    
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.navapbc.com/">
-                                <img src="@/assets/logo-nava.png" class="img-fluid" alt="Nava Public Benefit Corporation" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“As a public benefit corporation, Nava is driven not just by profit, but also by our mission to build government software that well serves the American public. We are proud to be charter members of the Digital Services Coalition because our collective work shows that by putting the American people and civil servants at the center, it’s possible to radically improve how we deliver government services.” <i>*</i></p> 
-                        </div>
-                    </div>
-                    
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://oddball.io/">
-                                <img src="@/assets/logo-oddball.png" class="img-fluid" alt="Oddball" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We believe this group represents a unique and new way of doing business by focusing on quality, long-term relationships and delivering value to our clients. We’re excited to be part of this mission.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://www.navapbc.com/" img="logo-nava.png" img-alt="Nava Public Benefit Corporation">
+                        “As a public benefit corporation, Nava is driven not just by profit, but also by our mission to build government software that well serves the American public. We are proud to be charter members of the Digital Services Coalition because our collective work shows that by putting the American people and civil servants at the center, it’s possible to radically improve how we deliver government services.” <i>*</i>
+                    </MemberItem>
 
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://pluribusdigital.com/">
-                                <img src="@/assets/logo-pluribus.png" class="img-fluid" alt="Pluribus Digital" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“Government missions make an impact on people’s lives. Software can be the ‘force multiplier’ to execute those missions. We believe that the government deserves the best in technology and talent in order to be as effective as possible.” <i>*</i></p> 
-                        </div>
-                    </div>
-                    
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://skylight.digital/">
-                                <img src="@/assets/logo-skylight.png" class="img-fluid" alt="Skylight"/>
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://oddball.io/" img="logo-oddball.png" img-alt="Oddball">
+                        “We believe this group represents a unique and new way of doing business by focusing on quality, long-term relationships and delivering value to our clients. We’re excited to be part of this mission.” <i>*</i>
+                    </MemberItem>
 
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://www.thesocompany.com/">
-                                <img src="@/assets/logo-thesocompany.png" class="img-fluid" alt="The So Company" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“We’re part of the Digital Services Coalition to extend our mission of improving services quickly, intelligently, and efficiently and to collaborate with others that want to provide these same service delivery promises. True change can’t be done alone.” <i>*</i></p> 
-                        </div>
-                    </div>
-                    
-                    <div class="row mt-5">
-                        <div class="col-md-4 col-2">
-                            <a href="https://truss.works/">
-                                <img src="@/assets/logo-truss.png" class="img-fluid" alt="Truss" />
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-10">
-                            <p>“The public has come to expect more because of the digital services they effortlessly enjoy every day. We want to help bridge the gap between public expectation and government delivery by improving procurement, design, and build processes to deliver high-value, modern solutions.” <i>*</i></p> 
-                        </div>
-                    </div>
+                    <MemberItem class="row mt-5" link-url="https://pluribusdigital.com/" img="logo-pluribus.png" img-alt="Pluribus Digital">
+                        “Government missions make an impact on people’s lives. Software can be the ‘force multiplier’ to execute those missions. We believe that the government deserves the best in technology and talent in order to be as effective as possible.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-ul="https://goraft.tech/" img="logo-raft.jpg" img-alt="Raft LLC">
+                        “Raft LLC brings radical transparency and a commitment to mission success, bridging the gap between humans and data for better, sustainable program outcomes. Inspired by the Raft Consensus Model, we are obsessed with inclusive problem solving and using technology to improve lives.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-ul="https://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
+                        “Simple Technology believes Government should operate at the speed of innovation. Our engineers (multi-cloud, low code, and open source) are passionate about using cloud-native technologies to automate ITOps activities and business processes so agencies can focus on the mission.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://skylight.digital/" img="logo-skylight.png" img-alt="Skylight">
+                        “Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://www.skywarditsolutions.com/" img="logo-skyward.jpg" img-alt="Skyward IT Solutions">
+                        “Delivering lasting federal and state initiatives through empathy, collaboration, and innovation is our ethos. We coalesce with this highly dynamic consortium of teams to continue on the endeavors of empowering the government and driving positive change, together.”
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://www.thesocompany.com/" img="logo-thesocompany.png" img-alt="The So Company">
+                        “We’re part of the Digital Services Coalition to extend our mission of improving services quickly, intelligently, and efficiently and to collaborate with others that want to provide these same service delivery promises. True change can’t be done alone.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://truss.works/" img="logo-truss.png" img-alt="Truss">
+                        “The public has come to expect more because of the digital services they effortlessly enjoy every day. We want to help bridge the gap between public expectation and government delivery by improving procurement, design, and build processes to deliver high-value, modern solutions.” <i>*</i>
+                    </MemberItem>
+
+                    <MemberItem class="row mt-5" link-url="https://wheelhousegroup.com/" img="Wheelhouse.png" img-alt="Wheelhouse Group, Inc">
+                        “Digital transformation is complex and requires people-focused solutions. Our expert change leaders help federal clients do the nuanced work to prepare and engage employees and the public to enthusiastically adopt change. At Wheelhouse we move organizations from Reluctance to Results™.”
+                    </MemberItem>
                 </div>
             </div>
         </div>
@@ -352,10 +222,12 @@
 
 <script>
 import Parallax from "vue-parallaxy";
+import MemberItem from "@/components/MemberItem.vue";
 
 export default {
   components: {
     Parallax,
+    MemberItem,
   },
 };
 </script>
