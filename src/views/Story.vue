@@ -70,7 +70,7 @@
                         “We craft creative solutions and build technology products that improve the communities our clients serve. We work closely with partners, including many in this coalition, to shape digital services that people rely on, co-creating progress that serves a common purpose.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://esimplicity.com/" img="eSimplicity.jpg" img-alt="eSimplicity">
+                    <MemberItem class="row mt-5" link-url="https://esimplicity.com/" img="eSimplicity_Final-01.jpg" img-alt="eSimplicity">
                         “eSimplicity is excited to be part of the energetic and enthusiastic Digital Services Coalition to nurture and grow with the civic tech community. Our relentless drive to invent new ways that delight our users and customers never stops. Our engineers and strategists focus on using technology to totally transform the existing user and customer experience and reimagine a better experience than what exists today.”
                     </MemberItem>
 
@@ -132,7 +132,7 @@
                         “Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.skywarditsolutions.com/" img="logo-skyward.jpg" img-alt="Skyward IT Solutions">
+                    <MemberItem class="row mt-5" link-url="https://www.skywarditsolutions.com/" img="SKYWARD_GRAY_YELLOW_VERTICAL_1x.png" img-alt="Skyward IT Solutions">
                         “Delivering lasting federal and state initiatives through empathy, collaboration, and innovation is our ethos. We coalesce with this highly dynamic consortium of teams to continue on the endeavors of empowering the government and driving positive change, together.”
                     </MemberItem>
 
