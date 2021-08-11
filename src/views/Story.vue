@@ -128,7 +128,7 @@
                         “Simple Technology believes Government should operate at the speed of innovation. Our engineers (multi-cloud, low code, and open source) are passionate about using cloud-native technologies to automate ITOps activities and business processes so agencies can focus on the mission.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://skylight.digital/" img="logo-skylight.png" img-alt="Skylight">
+                    <MemberItem class="row mt-5" link-url="https://skylight.digital/" img="logo-skylight-2.png" img-alt="Skylight">
                         “Our mission is to make government work in a digital world. We can’t imagine a better way of doing that than being part of an ecosystem of like-minded companies.” <i>*</i>
                     </MemberItem>
 
