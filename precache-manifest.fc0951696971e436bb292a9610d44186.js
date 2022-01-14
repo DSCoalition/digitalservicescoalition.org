@@ -40,12 +40,24 @@ self.__precacheManifest = [
     "url": "/img/logo-mo.b1a00972.png"
   },
   {
+    "revision": "66cec852e460903af8f32d9dec4182b7",
+    "url": "/img/board-member-marc-2.66cec852.jpg"
+  },
+  {
     "revision": "71f2c83ab54ebda5c1591143f71565f9",
     "url": "/img/logo-adhoc.71f2c83a.png"
   },
   {
+    "revision": "63a2ce65e62dcbfbe6fab7f6467ad83f",
+    "url": "/img/board-member-ivy.63a2ce65.jpg"
+  },
+  {
     "revision": "378c3f6379efc259f7940f46a8ab9fc9",
     "url": "/img/bg-triangle-pink3.378c3f63.png"
+  },
+  {
+    "revision": "1f1b5c6cac6c7563fe57dd8453256608",
+    "url": "/img/board-member-tyra-2.1f1b5c6c.jpg"
   },
   {
     "revision": "a6f57137cfdef726cedf673df9d52c74",
@@ -116,12 +128,16 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-blue.69161325.png"
   },
   {
+    "revision": "4ebf635d47a6ff75f481e5f980d9a0ae",
+    "url": "/img/board-member-jason.4ebf635d.jpg"
+  },
+  {
     "revision": "e2b249c6098eadcd407c0d5118c0638d",
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "6b28f76cd1d40f190746",
-    "url": "/js/app.57fb9ed2.js"
+    "revision": "585a24658fba912c8ed4",
+    "url": "/js/app.25ede47f.js"
   },
   {
     "revision": "6bb463ac2c8066d33dcb",
@@ -130,6 +146,10 @@ self.__precacheManifest = [
   {
     "revision": "3912766eedddb3720b1d806fc72912c3",
     "url": "/img/SKYWARD_GRAY_YELLOW_VERTICAL_1x.3912766e.png"
+  },
+  {
+    "revision": "5513b0d91127bf300f6da58ed9a34819",
+    "url": "/img/board-member-sarah-2.5513b0d9.jpg"
   },
   {
     "revision": "b8afa91dc42f920aa0d4b7a63f7f28ba",
@@ -168,6 +188,14 @@ self.__precacheManifest = [
     "url": "/img/logo-ctg.c9f1f663.png"
   },
   {
+    "revision": "50754c7bccaa32d43fe1afbd64702824",
+    "url": "/img/board-member-greg-godbout.50754c7b.jpg"
+  },
+  {
+    "revision": "197d60c7e04ee5cd913020274b92bf04",
+    "url": "/img/board-member-lapedra.197d60c7.jpg"
+  },
+  {
     "revision": "9fbdb9a2c94f460572b93f3dd7e26ea6",
     "url": "/img/MetroStar_Logos_stacked-01.9fbdb9a2.svg"
   },
@@ -204,6 +232,10 @@ self.__precacheManifest = [
     "url": "/img/logo-simple.03eb317a.jpg"
   },
   {
+    "revision": "428080e170ae33275dd0a9ce2cf89998",
+    "url": "/img/board-member-traci.428080e1.jpg"
+  },
+  {
     "revision": "1c937b7fbd3864e0373e8ad9e7810960",
     "url": "/img/logo-oddball.1c937b7f.png"
   },
@@ -220,7 +252,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "6173bc19f3873f4d7984be0952075c0e",
+    "revision": "0ddb51e6554bdc981e8c7b5cf35dc38a",
     "url": "/index.html"
   },
   {
@@ -232,7 +264,7 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "6b28f76cd1d40f190746",
+    "revision": "585a24658fba912c8ed4",
     "url": "/css/app.a2989a32.css"
   },
   {
