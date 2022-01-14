@@ -153,62 +153,73 @@
         
         <div class="bg-gray">
             <div class="container py-5">
-                <h3 class="text-gray py-3">Board Members</h3>
+                <h3 class="text-gray py-3">Who We Are</h3>
                 <div class="row text-center">
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-dan.jpg" alt="Dan Levenson" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-traci.jpg" alt="Traci Walker" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Dan Levenson<br/>
-                            <small class="text-gray">Agile Six</small><br/>
+                            Traci Walker<br/>
+                            <small class="text-gray">Digital Services Coalition</small><br/>
+                            <small class="text-blue">Executive Director</small>
+                        </h6>
+                    </div>
+
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-ivy.jpg" alt="Ivy Teng Lei" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Ivy Teng Lei<br/>
+                            <small class="text-gray">Exygy</small><br/>
                             <small class="text-blue">President, Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-marc.jpg" alt="Marc Jones" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-greg-godbout.jpg" alt="Greg Godbout" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Marc Jones<br/>
-                            <small class="text-gray">CivicActions</small><br/>
-                            <small class="text-blue">Secretary</small>
+                            Greg Godbout<br/>
+                            <small class="text-gray">Fearless</small><br/>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-tyra.jpg" alt="Tyra Blew" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-lapedra.jpg" alt="Lapedra Tolson" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Tyra Blew<br/>
-                            <small class="text-gray">Coforma</small><br/>
-                            <small class="text-blue">Treasurer</small>
+                            Lapedra Tolson<br/>
+                            <small class="text-gray">Friends From The City</small><br/>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-sarah.jpg" alt="Sarah Ruggless" class="img-fluid pb-4" />
+                </div>
+                <div class="row text-center">
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-jason.jpg" alt="Jason Stoner" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Jason Stoner<br/>
+                            <small class="text-gray">MetroStar</small><br/>
+                            <small class="text-blue">Board Member</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-sarah-2.jpg" alt="Sarah Ruggless" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Sarah Ruggless<br/>
                             <small class="text-gray">Flexion</small><br/>
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-greg.jpg" alt="Greg Gershman" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-marc-2.jpg" alt="Marc Jones" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Greg Gershman<br/>
-                            <small class="text-gray">Ad Hoc</small><br/>
-                            <small class="text-blue">Board Member</small>
+                            Marc Jones<br/>
+                            <small class="text-gray">CivicActions</small><br/>
+                            <small class="text-blue">Secretary</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-eduardo.jpg" alt="Eduardo Ortiz" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-6 mx-auto">
+                        <img src="@/assets/board-member-tyra-2.jpg" alt="Tyra Blew" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Eduardo Ortiz<br/>
+                            Tyra Blew<br/>
                             <small class="text-gray">Coforma</small><br/>
-                            <small class="text-blue">Board Member</small>
-                        </h6>
-                    </div>
-                    <div class="col-lg col-md-4 col-6 mx-auto">
-                        <img src="@/assets/board-member-jessi.jpg" alt="Jessi Bull" class="img-fluid pb-4" />
-                        <h6 class="text-blue">
-                            Jessi Bull<br/>
-                            <small class="text-gray">Nava</small><br/>
-                            <small class="text-blue">Board Member</small>
+                            <small class="text-blue">Treasurer</small>
                         </h6>
                     </div>
                 </div>
