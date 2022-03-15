@@ -92,6 +92,10 @@ export default {
   max-width: 60ch;
 }
 
+.date-link:hover .link {
+  text-decoration: underline;
+}
+
 .date-box {
   text-align: center;
   word-break: break-word;
@@ -115,9 +119,5 @@ export default {
 
 .link {
   color: #444444;
-
-  :hover {
-    color: #444444;
-  }
 }
 </style>
