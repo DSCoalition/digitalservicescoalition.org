@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
-    "revision": "619ac22e13cae3399fe7051932ced38f",
-    "url": "/img/logo-mss.619ac22e.png"
+    "revision": "fe1f433cc96a8b8e9985",
+    "url": "/css/app.bd620ee8.css"
   },
   {
     "revision": "6bb463ac2c8066d33dcb",
     "url": "/css/chunk-vendors.6acb9ff2.css"
+  },
+  {
+    "revision": "6bb463ac2c8066d33dcb",
+    "url": "/js/chunk-vendors.7067ed22.js"
   },
   {
     "revision": "821f71d57b6b94ebea29fef6dffcfaf1",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "585a24658fba912c8ed4",
-    "url": "/js/app.25ede47f.js"
+    "revision": "fe1f433cc96a8b8e9985",
+    "url": "/js/app.e30bc593.js"
   },
   {
-    "revision": "6bb463ac2c8066d33dcb",
-    "url": "/js/chunk-vendors.7067ed22.js"
+    "revision": "619ac22e13cae3399fe7051932ced38f",
+    "url": "/img/logo-mss.619ac22e.png"
   },
   {
     "revision": "3912766eedddb3720b1d806fc72912c3",
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "0ddb51e6554bdc981e8c7b5cf35dc38a",
+    "revision": "701cab20e461d53d22d6060417c56efa",
     "url": "/index.html"
   },
   {
@@ -260,12 +260,16 @@ self.__precacheManifest = [
     "url": "/img/illustration-gov.png"
   },
   {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
+  },
+  {
     "revision": "72ce9230ec618bfe26f0b38f3469bdf3",
     "url": "/favicon.png"
   },
   {
-    "revision": "585a24658fba912c8ed4",
-    "url": "/css/app.a2989a32.css"
+    "revision": "d78bb92e68812aff0a489481aad44212",
+    "url": "/DSCStrategicPlan.pdf"
   },
   {
     "revision": "2c5f5fa0efca2668362fde32ae146918",
