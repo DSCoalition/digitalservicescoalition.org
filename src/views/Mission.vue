@@ -17,6 +17,12 @@
                 <div class="col-lg-8 pb-5">
                     <p>There are organizations inside the government (USDS, 18F, Presidential Innovation Fellows) that are already spearheading efforts to improve how government delivers services to the American public. But they need support from commercial tech firms to make sweeping changes to how things are done. Nimble, forward-thinking firms are the ones who can make this a reality.</p>
                     <p>By working together, we can accelerate the government’s ability to implement services that focus on good usability, reliable technology, and accessibility for all—while also benefiting the individuals and firms that are part of the community.</p>
+                    <a download :href="`${publicPath}DSCStrategicPlan.pdf`">
+                      <div class="date-link bg-gray">
+                        <div class="date-box" aria-label="March 12" role="text"><div class="date-box-inner"><span class="date" aria-hidden="true">Mar 12</span></div></div>
+                        <div class="link-box"><span class="link">Read our 2022-2025 Strategic Plan (PDF, 2.5 MB, 22 pages)</span></div>
+                      </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -64,11 +70,54 @@
 
 
 <script>
-    import Parallax from 'vue-parallaxy'
+import Parallax from "vue-parallaxy";
 
-    export default {
-      components: {
-        Parallax
-      }
-    }
+export default {
+  components: {
+    Parallax,
+  },
+  data() {
+    return {
+      publicPath: process.env.BASE_URL,
+    };
+  },
+};
 </script>
+
+<style>
+.date-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 60ch;
+}
+
+.date-link:hover .link {
+  text-decoration: underline;
+}
+
+.date-box {
+  text-align: center;
+  word-break: break-word;
+  line-height: 1.1em;
+  background-color: #dedede;
+}
+
+.date-box-inner {
+  width: 4ch;
+  margin: 4px 8px;
+}
+
+.date {
+  font-weight: 700;
+  color: #444444;
+}
+
+.link-box {
+  margin-left: 1rem;
+}
+
+.link {
+  color: #444444;
+}
+</style>
