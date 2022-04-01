@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "c1479a364efad51076ea",
+    "revision": "edef921ca18eae59caa3",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -120,6 +120,10 @@ self.__precacheManifest = [
     "url": "/img/540-Logo-Primary-Black.e722e06e.png"
   },
   {
+    "revision": "ce9fad46070c90d2e0da2f23ad0fe3ab",
+    "url": "/img/logo-clarity-innovations.ce9fad46.png"
+  },
+  {
     "revision": "741c4fc68626b1b8a0d4e86aa4be4820",
     "url": "/img/Wheelhouse.741c4fc6.png"
   },
@@ -136,8 +140,8 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "c1479a364efad51076ea",
-    "url": "/js/app.bb898705.js"
+    "revision": "edef921ca18eae59caa3",
+    "url": "/js/app.e34ee3a7.js"
   },
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
@@ -252,7 +256,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "8cdc81fa515f22cb120f95ef5592daf3",
+    "revision": "81fbdb881b78b714daebc0a96bdd99a9",
     "url": "/index.html"
   },
   {
@@ -260,12 +264,12 @@ self.__precacheManifest = [
     "url": "/img/illustration-gov.png"
   },
   {
-    "revision": "72ce9230ec618bfe26f0b38f3469bdf3",
-    "url": "/favicon.png"
-  },
-  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "72ce9230ec618bfe26f0b38f3469bdf3",
+    "url": "/favicon.png"
   },
   {
     "revision": "d78bb92e68812aff0a489481aad44212",
