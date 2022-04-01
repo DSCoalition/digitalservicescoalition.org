@@ -100,7 +100,7 @@
                         “We believe in creating digital experiences that elevate government missions. MetroStar is full of leaders, technologists, artists, and everyone in between. We know the best teams — the ones that power change — bring together people with different backgrounds to make it happen. MetroStar is Powering Change® because of our teammates.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.themostudio.com/" img="logo-mo.png" img-alt="MO Studio">
+                    <MemberItem class="row mt-5" link-url="https://www.themostudio.com/" img="logo-mo-2.png" img-alt="MO Studio">
                         “We believe that we can help the government ask the right questions, find the right answers, conceptualize and co-design what the experience can become, and build solutions that delight the government’s customers — the public. We don’t want to play by the rules, but change how the game is played.” <i>*</i>
                     </MemberItem>
 
