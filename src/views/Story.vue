@@ -62,8 +62,8 @@
                         “We’re honored to be part of a strong network of firms who embrace the values of free and open-source software, knowledge sharing, collaboration, and contributing back while fostering a culture of openness and learning in government to build the next generation of modern public services.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.clarityinnovates.com/" img="logo-ci.png" img-alt="Clarity Innovations">
-                        “We connect people with the technology necessary to make our country, and our world, a better, safer place. Discovering the technology and understanding the need is part of that quest. We practice servant leadership, respectful dialogue, technical excellence, and supporting and trusting one another.”
+                    <MemberItem class="row mt-5" link-url="https://www.clarityinnovates.com/" img="logo-clarity-innovations.png" img-alt="Clarity Innovations">
+                        “Clarity Innovations is reimagining how mission critical systems get, use, and move data. As a DataOps software developer dedicated to making data useful to mission operations and decision makers, we work alongside end users throughout the entire data chain from collection and aggregation, through correlation and analysis, to visualization and manipulation.”
                     </MemberItem>
 
                     <MemberItem class="row mt-5" link-url="https://coforma.io/" img="logo-coforma.png" img-alt="Coforma">
