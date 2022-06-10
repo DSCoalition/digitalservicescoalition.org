@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "ca93db6c31ff46dd0bf5",
+    "revision": "ae76b0232f1c8a7a60fe",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -140,8 +140,8 @@ self.__precacheManifest = [
     "url": "/img/board-member-jason.4ebf635d.jpg"
   },
   {
-    "revision": "ca93db6c31ff46dd0bf5",
-    "url": "/js/app.e8bc42d0.js"
+    "revision": "ae76b0232f1c8a7a60fe",
+    "url": "/js/app.845c6ad8.js"
   },
   {
     "revision": "bccfb49358060fd73a58282c0020975a",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "2fb0e8dab84e32cc504dadd3f34ff6ff",
+    "revision": "e7bd9369f0a76b5ac98b555d2c8d7996",
     "url": "/index.html"
   },
   {
