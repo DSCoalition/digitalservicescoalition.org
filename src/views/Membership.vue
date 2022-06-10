@@ -11,6 +11,11 @@
             <div class="row justify-content-md-between">
                 <div class="col-md-6 py-md-5">
                     <h1 class="text-magenta my-md-5">Join the coalition</h1>
+
+                    <div class="alert alert-success" role="alert">
+                        <h2 class="h4"><b>Announcement</b></h2>
+                        <b>We are now accepting new member applications for 2022 through July 1. Find out more about <a href="https://tinyurl.com/yc86m8hv">joining the DSC</a> and the application process.</b>
+                    </div>
                     
                     <h2 class="text-gray mt-5">Membership benefits</h2>
                     <ul>
@@ -25,7 +30,7 @@
                     </ul>
                     
                     <h2 class="text-gray mt-5">Who can join</h2>
-                    <p>We have a phased approach to membership, starting with small-sized or mid-tier businesses. Large firms may be considered starting in 2020.</p>
+                    <p>We have a phased approach to membership, starting with small-sized or mid-tier businesses. Large firms may be considered in the future.</p>
                     <ul>
                         <li>Small-sized (revenue less than $27.5M for a 3 year running average) or mid-tier (revenue less than $55M for a 3 year running average) businesses who perform Digital Services work. Digital Services work is defined as a service that is delivered via the internet or electronic network, and automated to require little to no human intervention.</li>
                         <li>Small-sized or mid-tier businesses who provide services for the public sector or have a desire to do work in the public sector.</li>
@@ -51,12 +56,13 @@
                     <div class="col-md-6 py-5">
                         <h2 class="text-gray mt-5">Criteria for membership</h2>
                         <ul>
-                            <li>Proof of digital services work or work sample (at least two)</li>
-                            <li>Contribution to thought leadership (blogging, speaking, meet-ups, etc)</li>
+                            <li>Proof of Digital Services Work/Work Sample (at least two)</li>
                             <li>Must actively support two initiatives as a member firm that map into the current DSC yearly priorities</li>
-                            <li>One customer reference</li>
-                            <li>Commitment to attendance at a monthly meeting with all DSC members</li>
+                            <li>Two Customer references</li>
+                            <li>Commitment to attendance at regular meetings with DSC members</li>
+                            <li>Sponsorship application submitted to DSC from current member</li>
                         </ul>
+                        <p>For more information on the full membership criteria and qualifications, please review <a href="https://tinyurl.com/4vrdzzr4 ">2022 DSC Membership Policy</a>.</p>
                     </div>
                 </div>
             </div>
