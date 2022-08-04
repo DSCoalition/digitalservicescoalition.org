@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "ef935d18696b06c1e400",
+    "revision": "e1dcffd6654cad34870d",
     "url": "/css/app.bd620ee8.css"
   },
   {
-    "revision": "6bb463ac2c8066d33dcb",
+    "revision": "81637f742800fda23493",
     "url": "/css/chunk-vendors.6acb9ff2.css"
   },
   {
-    "revision": "6bb463ac2c8066d33dcb",
-    "url": "/js/chunk-vendors.7067ed22.js"
+    "revision": "81637f742800fda23493",
+    "url": "/js/chunk-vendors.769521e6.js"
   },
   {
     "revision": "a6024d844b7f477bb14d31bd0a4c5aa0",
@@ -160,8 +160,8 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "ef935d18696b06c1e400",
-    "url": "/js/app.9c6be817.js"
+    "revision": "e1dcffd6654cad34870d",
+    "url": "/js/app.13818424.js"
   },
   {
     "revision": "f4708117b34b184216c915970fed5121",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "90ebd5d01683e74cb5cf514397aed87c",
+    "revision": "7736a80885d974541fb6d0d163a8364b",
     "url": "/index.html"
   },
   {
