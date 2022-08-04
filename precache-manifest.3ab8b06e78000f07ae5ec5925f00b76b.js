@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "e2b249c6098eadcd407c0d5118c0638d",
-    "url": "/img/logo-fearless.e2b249c6.png"
+    "revision": "bccfb49358060fd73a58282c0020975a",
+    "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "ef9226b85c21f1ee9f38",
+    "revision": "ef935d18696b06c1e400",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.7067ed22.js"
   },
   {
-    "revision": "821f71d57b6b94ebea29fef6dffcfaf1",
-    "url": "/img/logo-kind.821f71d5.png"
+    "revision": "a6024d844b7f477bb14d31bd0a4c5aa0",
+    "url": "/img/logo-kind.a6024d84.png"
   },
   {
     "revision": "0182e7b663f39cc445b7768a4b373e7c",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/img/logo-mo.b1a00972.png"
   },
   {
+    "revision": "a43509576b57fbb98e05bf1b308feba4",
+    "url": "/img/logo-aquia.a4350957.png"
+  },
+  {
     "revision": "66cec852e460903af8f32d9dec4182b7",
     "url": "/img/board-member-marc-2.66cec852.jpg"
   },
@@ -54,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "378c3f6379efc259f7940f46a8ab9fc9",
     "url": "/img/bg-triangle-pink3.378c3f63.png"
+  },
+  {
+    "revision": "3eab65b05ec1177ca92767bb427d1d70",
+    "url": "/img/logo-bracari.3eab65b0.png"
   },
   {
     "revision": "1f1b5c6cac6c7563fe57dd8453256608",
@@ -100,12 +108,20 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-lightblue.8910e24a.png"
   },
   {
+    "revision": "23322ef3b008235b7de8673bdd72f104",
+    "url": "/img/logo-friends-from-the-city.23322ef3.png"
+  },
+  {
     "revision": "7cbc81eaa6097d69abd2895c55d8a266",
     "url": "/img/bg-triangle-lightpink.7cbc81ea.png"
   },
   {
     "revision": "683696628d73144d2ab5027b1d5e5c43",
     "url": "/img/logo-skylight.68369662.png"
+  },
+  {
+    "revision": "48906782e6ff99ffaec316959d2ecdc9",
+    "url": "/img/logo-for-people.48906782.png"
   },
   {
     "revision": "a51ef6280cd65d8d8518f3cee8df3f43",
@@ -140,12 +156,16 @@ self.__precacheManifest = [
     "url": "/img/board-member-jason.4ebf635d.jpg"
   },
   {
-    "revision": "ef9226b85c21f1ee9f38",
-    "url": "/js/app.c7c65462.js"
+    "revision": "e2b249c6098eadcd407c0d5118c0638d",
+    "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "bccfb49358060fd73a58282c0020975a",
-    "url": "/img/bg-triangle-blue2.bccfb493.png"
+    "revision": "ef935d18696b06c1e400",
+    "url": "/js/app.9c6be817.js"
+  },
+  {
+    "revision": "f4708117b34b184216c915970fed5121",
+    "url": "/img/logo-corbalt.f4708117.png"
   },
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
@@ -212,6 +232,10 @@ self.__precacheManifest = [
     "url": "/img/logo-civicactions.5a6f946f.png"
   },
   {
+    "revision": "b4c9d8cb95797b00665a36b3b43df7bb",
+    "url": "/img/logo-bloom-works.b4c9d8cb.png"
+  },
+  {
     "revision": "8a33b0d8d5f492ed3c96a7f2c249d671",
     "url": "/img/logo-exygy.8a33b0d8.png"
   },
@@ -232,8 +256,16 @@ self.__precacheManifest = [
     "url": "/img/logo-thesocompany.266d02c6.png"
   },
   {
+    "revision": "cd521f5501e3260dbbf62213a52b0c2b",
+    "url": "/img/logo-softrams.cd521f55.png"
+  },
+  {
     "revision": "7ecad2c6e3b09245b121d4da4f3855dd",
     "url": "/img/board-member-eduardo.7ecad2c6.jpg"
+  },
+  {
+    "revision": "9dfd4a4be8e77acfe1b33b6d572950b7",
+    "url": "/img/logo-verdance.9dfd4a4b.png"
   },
   {
     "revision": "03eb317afce2ec3106df8e7bd0888d13",
@@ -252,6 +284,10 @@ self.__precacheManifest = [
     "url": "/img/dsc-logo.793c682e.png"
   },
   {
+    "revision": "23d4d2223381f36060c55110205624ba",
+    "url": "/img/logo-vaultes.23d4d222.png"
+  },
+  {
     "revision": "97875f215b1e74ca7e8dd182598f8cab",
     "url": "/img/eSimplicity_Final-01.97875f21.jpg"
   },
@@ -260,7 +296,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "54380ab5bdcbca25140f53471ca47bda",
+    "revision": "90ebd5d01683e74cb5cf514397aed87c",
     "url": "/index.html"
   },
   {
