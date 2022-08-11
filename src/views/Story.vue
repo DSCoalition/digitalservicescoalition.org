@@ -190,8 +190,8 @@
         <div class="bg-gray">
             <div class="container py-5">
                 <h3 class="text-gray py-3">Who We Are</h3>
-                <div class="row text-center">
-                    <div class="col-lg col-md col-6 mx-auto">
+                <div class="row align-items-start text-center">
+                    <div class="col-lg col-md col-4 mx-auto">
                         <img src="@/assets/board-member-traci.jpg" alt="Traci Walker" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Traci Walker<br/>
@@ -200,7 +200,7 @@
                         </h6>
                     </div>
 
-                    <div class="col-lg col-md col-6 mx-auto">
+                    <div class="col-lg col-md col-4 mx-auto">
                         <img src="@/assets/board-member-ivy.jpg" alt="Ivy Teng Lei" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Ivy Teng Lei<br/>
@@ -208,7 +208,7 @@
                             <small class="text-blue">President, Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md col-6 mx-auto">
+                    <div class="col-lg col-md col-4 mx-auto">
                         <img src="@/assets/board-member-greg-godbout.jpg" alt="Greg Godbout" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Greg Godbout<br/>
@@ -216,7 +216,10 @@
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md col-6 mx-auto">
+                </div>
+
+                <div class="row align-items-center text-center">
+                    <div class="col-lg col-md col-4 mx-auto">
                         <img src="@/assets/board-member-lapedra.jpg" alt="Lapedra Tolson" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Lapedra Tolson<br/>
@@ -224,9 +227,7 @@
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                </div>
-                <div class="row text-center">
-                    <div class="col-lg col-md col-6 mx-auto">
+                    <div class="col-lg col-md col-4 mx-auto">
                         <img src="@/assets/board-member-jason.jpg" alt="Jason Stoner" class="img-fluid pb-4" />
                         <h6 class="text-blue">
                             Jason Stoner<br/>
@@ -234,28 +235,38 @@
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md col-6 mx-auto">
-                        <img src="@/assets/board-member-sarah-2.jpg" alt="Sarah Ruggless" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-4 mx-auto">
+                        <img src="@/assets/board-member-stephanie.jpg" alt="Stephanie Chin" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Sarah Ruggless<br/>
-                            <small class="text-gray">Flexion</small><br/>
+                            Stephanie Chin<br/>
+                            <small class="text-gray">Fearless</small><br/>
                             <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md col-6 mx-auto">
-                        <img src="@/assets/board-member-marc-2.jpg" alt="Marc Jones" class="img-fluid pb-4" />
+                </div>
+                <div class="row align-items-end text-center">
+                    <div class="col-lg col-md col-4 mx-auto">
+                        <img src="@/assets/board-member-mike.jpg" alt="Mike Gifford" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Marc Jones<br/>
+                            Mike Gifford<br/>
                             <small class="text-gray">CivicActions</small><br/>
-                            <small class="text-blue">Secretary</small>
+                            <small class="text-blue">Board Member</small>
                         </h6>
                     </div>
-                    <div class="col-lg col-md col-6 mx-auto">
-                        <img src="@/assets/board-member-tyra-2.jpg" alt="Tyra Blew" class="img-fluid pb-4" />
+                    <div class="col-lg col-md col-4 mx-auto">
+                        <img src="@/assets/board-member-carl.jpg" alt="Carl Bunche" class="img-fluid pb-4" />
                         <h6 class="text-blue">
-                            Tyra Blew<br/>
-                            <small class="text-gray">Coforma</small><br/>
+                            Carl Bunche<br/>
+                            <small class="text-gray">Flexion</small><br/>
                             <small class="text-blue">Treasurer</small>
+                        </h6>
+                    </div>
+                    <div class="col-lg col-md col-4 mx-auto">
+                        <img src="@/assets/board-member-tabby.jpg" alt="Tabby Farrar" class="img-fluid pb-4" />
+                        <h6 class="text-blue">
+                            Tabby Farrar<br/>
+                            <small class="text-gray">MediaBarn</small><br/>
+                            <small class="text-blue">Secretary</small>
                         </h6>
                     </div>
                 </div>
