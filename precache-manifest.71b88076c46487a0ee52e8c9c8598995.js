@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "e1dcffd6654cad34870d",
+    "revision": "4d04fc49e09e5e0f2e86",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -24,10 +24,6 @@ self.__precacheManifest = [
     "url": "/img/logo-mediabarn.0182e7b6.png"
   },
   {
-    "revision": "b4e3a3116de26cec606fedca186ffd96",
-    "url": "/img/board-member-marc.b4e3a311.jpg"
-  },
-  {
     "revision": "a12b7ad3f37789bcf833894f559570b6",
     "url": "/img/bg-triangle-pink2.a12b7ad3.png"
   },
@@ -42,10 +38,6 @@ self.__precacheManifest = [
   {
     "revision": "a43509576b57fbb98e05bf1b308feba4",
     "url": "/img/logo-aquia.a4350957.png"
-  },
-  {
-    "revision": "66cec852e460903af8f32d9dec4182b7",
-    "url": "/img/board-member-marc-2.66cec852.jpg"
   },
   {
     "revision": "71f2c83ab54ebda5c1591143f71565f9",
@@ -64,10 +56,6 @@ self.__precacheManifest = [
     "url": "/img/logo-bracari.3eab65b0.png"
   },
   {
-    "revision": "1f1b5c6cac6c7563fe57dd8453256608",
-    "url": "/img/board-member-tyra-2.1f1b5c6c.jpg"
-  },
-  {
     "revision": "a6f57137cfdef726cedf673df9d52c74",
     "url": "/img/bg-rectangle-blue2.a6f57137.png"
   },
@@ -84,20 +72,16 @@ self.__precacheManifest = [
     "url": "/img/logo-mo-2.b2cb842b.png"
   },
   {
-    "revision": "85d860909bdac574650ab1790d7b3000",
-    "url": "/img/board-member-jessi.85d86090.jpg"
-  },
-  {
     "revision": "db887d8a67933ce25a94a1da474ab38e",
     "url": "/img/logo-raft.db887d8a.jpg"
   },
   {
-    "revision": "45b1e933dc625c72fe652b3fcec901bf",
-    "url": "/img/bg-triangle-pink.45b1e933.png"
+    "revision": "39a0aef81fe625e9fad08fd6aa03499a",
+    "url": "/img/board-member-stephanie.39a0aef8.jpg"
   },
   {
-    "revision": "80dc1e5f718a5382ebabddc5f0c0b87a",
-    "url": "/img/board-member-greg.80dc1e5f.jpg"
+    "revision": "45b1e933dc625c72fe652b3fcec901bf",
+    "url": "/img/bg-triangle-pink.45b1e933.png"
   },
   {
     "revision": "e5bd73a918c36f772b4697d5906a127a",
@@ -160,8 +144,12 @@ self.__precacheManifest = [
     "url": "/img/logo-fearless.e2b249c6.png"
   },
   {
-    "revision": "e1dcffd6654cad34870d",
-    "url": "/js/app.13818424.js"
+    "revision": "d813bdfed0ef835af5a8cc697c7de3a0",
+    "url": "/img/board-member-mike.d813bdfe.jpg"
+  },
+  {
+    "revision": "4d04fc49e09e5e0f2e86",
+    "url": "/js/app.430ca219.js"
   },
   {
     "revision": "f4708117b34b184216c915970fed5121",
@@ -170,6 +158,10 @@ self.__precacheManifest = [
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
     "url": "/img/logo-mss.619ac22e.png"
+  },
+  {
+    "revision": "311aead8a124096f49cc66ba882b2f53",
+    "url": "/img/board-member-carl.311aead8.jpg"
   },
   {
     "revision": "3912766eedddb3720b1d806fc72912c3",
@@ -188,20 +180,8 @@ self.__precacheManifest = [
     "url": "/img/bg-rectangle-purple.0f1ce24f.png"
   },
   {
-    "revision": "b8290fa0f498af5da1c57d62cf892b31",
-    "url": "/img/board-member-dan.b8290fa0.jpg"
-  },
-  {
     "revision": "42eea2f6d8501d66d88550c30a3dd357",
     "url": "/img/logo-pluribus.42eea2f6.png"
-  },
-  {
-    "revision": "fb7029a1a9b7a745e772a4a010c6c8a5",
-    "url": "/img/board-member-tyra.fb7029a1.jpg"
-  },
-  {
-    "revision": "1ac13a0cc59990cdb2c4de96b1183d72",
-    "url": "/img/board-member-sarah.1ac13a0c.jpg"
   },
   {
     "revision": "bbc8483bb47442ab4d660ac7a2b1ed3b",
@@ -260,8 +240,8 @@ self.__precacheManifest = [
     "url": "/img/logo-softrams.cd521f55.png"
   },
   {
-    "revision": "7ecad2c6e3b09245b121d4da4f3855dd",
-    "url": "/img/board-member-eduardo.7ecad2c6.jpg"
+    "revision": "33d36e000a809f56dad741f1e596274e",
+    "url": "/img/board-member-tabby.33d36e00.jpg"
   },
   {
     "revision": "9dfd4a4be8e77acfe1b33b6d572950b7",
@@ -296,7 +276,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "7736a80885d974541fb6d0d163a8364b",
+    "revision": "fb2a041510e32372ba65675399d92b44",
     "url": "/index.html"
   },
   {
