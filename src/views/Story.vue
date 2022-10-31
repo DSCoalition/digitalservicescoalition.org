@@ -70,7 +70,7 @@
                         “Working in collaboration, the government and a coalition of like-minded firms can more fully realize the goal of designing, building, and delivering the most effective and transformative digital services solutions that current technology and imagination make possible.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://civicactions.com/" img="logo-civicactions.png" img-alt="Civic Actions">
+                    <MemberItem class="row mt-5" link-url="https://civicactions.com/" img="logo-civicactions.png" img-alt="CivicActions">
                         “We’re honored to be part of a strong network of firms who embrace the values of free and open-source software, knowledge sharing, collaboration, and contributing back while fostering a culture of openness and learning in government to build the next generation of modern public services.” <i>*</i>
                     </MemberItem>
 

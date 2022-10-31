@@ -1,12 +1,10 @@
 <template>
     <section>
-        
         <div class="bg-parallax-photo">
             <parallax :speed-factor="0.8" sectionClass="parallax-outside" containerClass="parallax-inside">
                 <img src="@/assets/bg-triangle-pink3.png" class="float-right" />
             </parallax>
         </div>
-        
         <div class="container py-5">
             <div class="row justify-content-md-between">
                 <div class="col-md-6 py-md-5">
@@ -14,9 +12,8 @@
 
                     <div class="alert alert-success" role="alert">
                         <h2 class="h4"><b>Announcement</b></h2>
-                        <b>We are now accepting new member applications for 2022 through July 1. Find out more about <a href="https://tinyurl.com/yc86m8hv">joining the DSC</a> and the application process.</b>
+                        <b>We're not accepting new member applications at this time. <br> If you want to get on our mailing list, contact us at <a href="mailto: membership@digitalservicescoalition.org">membership@digitalservicescoalition.org</a></b>
                     </div>
-                    
                     <h2 class="text-gray mt-5">Membership benefits</h2>
                     <ul>
                         <li>Access to DSC network</li>
@@ -28,7 +25,6 @@
                         <li>Ability to bring up issues for advocacy by the DSC</li>
                         <li>GovCon education</li>
                     </ul>
-                    
                     <h2 class="text-gray mt-5">Who can join</h2>
                     <p>We have a phased approach to membership, starting with small-sized or mid-tier businesses. Large firms may be considered in the future.</p>
                     <ul>
@@ -39,13 +35,11 @@
                 </div>
             </div>
         </div>
-        
         <div class="bg-parallax">
             <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
                 <img src="@/assets/bg-rectangle-purple.png" />
             </parallax>
         </div>
-        
         <div class="bg-gray">
             <div class="container py-5">
                 <div class="row justify-content-md-between">
@@ -67,7 +61,6 @@
                 </div>
             </div>
         </div>
-        
     </section>
 </template>
 
