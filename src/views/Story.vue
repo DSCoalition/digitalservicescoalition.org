@@ -58,7 +58,7 @@
                         “We are a mission-driven organization determined to improve people’s lives through human-centered strategies and transformative technologies. We deliver on this promise by partnering with leading federal agencies to conceive and create powerful, data-driven customer experiences.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.bloomworks.digital/" img="logo-bloom-works.png" img-alt="Bloom Works">
+                    <MemberItem class="row mt-5" link-url="https://www.bloomworks.digital/" img="bloom_works.png" img-alt="Bloom Works">
                         “We are a woman-owned digital services company. Our team has served in key leadership positions at all levels of government and have extensive experience delivering sustainable, human-centered, and data-driven services to people who need them the most.”
                     </MemberItem>
 
