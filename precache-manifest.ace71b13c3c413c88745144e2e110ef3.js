@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "bccfb49358060fd73a58282c0020975a",
-    "url": "/img/bg-triangle-blue2.bccfb493.png"
+    "revision": "f4708117b34b184216c915970fed5121",
+    "url": "/img/logo-corbalt.f4708117.png"
   },
   {
-    "revision": "3961857f4906e49ce882",
+    "revision": "ba3f02200e289be65b6d",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -100,6 +100,10 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-lightpink.7cbc81ea.png"
   },
   {
+    "revision": "39a0aef81fe625e9fad08fd6aa03499a",
+    "url": "/img/stephanie-chin.39a0aef8.jpg"
+  },
+  {
     "revision": "683696628d73144d2ab5027b1d5e5c43",
     "url": "/img/logo-skylight.68369662.png"
   },
@@ -118,6 +122,10 @@ self.__precacheManifest = [
   {
     "revision": "c621e163a7addf4edf7431ece533ca50",
     "url": "/img/bg-triangle-purple.c621e163.png"
+  },
+  {
+    "revision": "33d36e000a809f56dad741f1e596274e",
+    "url": "/img/board-member-tabby.33d36e00.33d36e00.jpg"
   },
   {
     "revision": "e722e06e0c3cf228b4caee1add43ac5e",
@@ -148,12 +156,12 @@ self.__precacheManifest = [
     "url": "/img/board-member-mike.d813bdfe.jpg"
   },
   {
-    "revision": "3961857f4906e49ce882",
-    "url": "/js/app.91deef29.js"
+    "revision": "bccfb49358060fd73a58282c0020975a",
+    "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "f4708117b34b184216c915970fed5121",
-    "url": "/img/logo-corbalt.f4708117.png"
+    "revision": "ba3f02200e289be65b6d",
+    "url": "/js/app.cd80fa8a.js"
   },
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
@@ -162,6 +170,10 @@ self.__precacheManifest = [
   {
     "revision": "311aead8a124096f49cc66ba882b2f53",
     "url": "/img/board-member-carl.311aead8.jpg"
+  },
+  {
+    "revision": "45c9b0726bed3f9b4dcdcff71ad02480",
+    "url": "/img/bloom_works.45c9b072.png"
   },
   {
     "revision": "3912766eedddb3720b1d806fc72912c3",
@@ -198,6 +210,10 @@ self.__precacheManifest = [
   {
     "revision": "50754c7bccaa32d43fe1afbd64702824",
     "url": "/img/board-member-greg-godbout.50754c7b.jpg"
+  },
+  {
+    "revision": "d813bdfed0ef835af5a8cc697c7de3a0",
+    "url": "/img/board-member-mike.d813bdfe.d813bdfe.jpg"
   },
   {
     "revision": "197d60c7e04ee5cd913020274b92bf04",
@@ -268,6 +284,10 @@ self.__precacheManifest = [
     "url": "/img/logo-vaultes.23d4d222.png"
   },
   {
+    "revision": "311aead8a124096f49cc66ba882b2f53",
+    "url": "/img/board-member-carl.311aead8.311aead8.jpg"
+  },
+  {
     "revision": "97875f215b1e74ca7e8dd182598f8cab",
     "url": "/img/eSimplicity_Final-01.97875f21.jpg"
   },
@@ -276,7 +296,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "d058d803970713d7bac2f4f727b9fbf9",
+    "revision": "8500c0bf8c0d03aa2032af1d626b2885",
     "url": "/index.html"
   },
   {
