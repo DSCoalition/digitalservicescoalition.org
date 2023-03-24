@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/img/logo-corbalt.f4708117.png"
   },
   {
-    "revision": "85ed723813d8b9e4a4ab",
+    "revision": "018e721cbdecc930be49",
     "url": "/css/app.bd620ee8.css"
   },
   {
@@ -160,8 +160,8 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "85ed723813d8b9e4a4ab",
-    "url": "/js/app.078882fc.js"
+    "revision": "018e721cbdecc930be49",
+    "url": "/js/app.1feb83b7.js"
   },
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "9325299508d65b03281caee3ed86f26b",
+    "revision": "2e216adec68db9779c0fc334b241d2e4",
     "url": "/index.html"
   },
   {
