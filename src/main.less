@@ -43,6 +43,7 @@ body {
 .text-purple { color: @purple; }
 .text-magenta { color: @magenta; }
 .text-gray { color: @gray-light; }
+.text-light-gray { color: @gray}
 
 .bg-red { background-color: @red; }
 .bg-pink { background-color: @pink; }
@@ -85,15 +86,26 @@ h6 {
 
 p {
     font-size: 1em;
-  
+
     &.text-sm {
         font-size: .8em;
     }
 }
 
+p.list-items::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin-right: 8px;
+    margin-bottom: 2px;
+    border: 1px solid #444444;
+    border-radius: 50%;
+  }
+
 a, a:visited {
     color: @red;
-    
+
     &:hover, &:focus {
         color: @magenta;
         text-decoration: none;
@@ -105,7 +117,7 @@ a, a:visited {
     color: white;
     border-radius: 0;
     border: none;
-    
+
     &:hover, &:focus {
         background-color: @magenta;
         color: white;
@@ -120,8 +132,8 @@ a, a:visited {
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
 
-.bg-illustration { 
-    background-image: url('../public/img/illustration-gov.png'); 
+.bg-illustration {
+    background-image: url('../public/img/illustration-gov.png');
     background-repeat: no-repeat;
     background-position: bottom left;
     background-size: contain;
@@ -144,7 +156,7 @@ a, a:visited {
 
 .bg-parallax, .bg-parallax-photo {
     position: relative;
-    
+
     .parallax-outside {
         position: absolute;
         top: 0;
@@ -176,7 +188,7 @@ a, a:visited {
             }
         }
     }
-    
+
     .parallax-outside-cover {
         position: relative;
         width: 100%;
@@ -214,19 +226,19 @@ a, a:visited {
     .bg-parallax-photo .parallax-outside .parallax-inside img {
         max-width: 600px;
     }
-}  
+}
 
 @media (max-width: 1160px) {
     .bg-parallax-photo .parallax-outside .parallax-inside img {
         max-width: 500px;
     }
-}  
+}
 
 @media (max-width: 860px) {
     .bg-parallax-photo .parallax-outside .parallax-inside img {
         max-width: 400px;
     }
-}    
+}
 
 @media (max-width: 768px) {
     .bg-parallax-photo {
@@ -235,7 +247,7 @@ a, a:visited {
             top: auto;
             left: auto;
             height: 400px !important;
-            
+
             img {
                 max-height: 400px;
             }
@@ -254,7 +266,7 @@ a, a:visited {
 .navbar {
     margin: 30px 0 30px 50px;
     padding: 0;
-    
+
     .navbar-brand .logo {
         height: 50px;
     }
@@ -295,14 +307,14 @@ a, a:visited {
     .navbar-nav {
         border-bottom: 5px solid @pink-light;
         padding: 25px 50px 25px 0;
-        
+
         .nav-item .nav-link {
             color: @red;
             font-family: 'Merriweather';
             padding: 0 25px;
             font-size: .9rem;
         }
-        
+
     }
 }
 
