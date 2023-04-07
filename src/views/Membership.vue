@@ -39,9 +39,9 @@
                             <b>Education:</b>
                             <p>DSC offers varied education opportunities including: </p>
                             <ul>
-                                <li>Webinars and workshops based on topics of interest to both the government and industry with ability to earn continuous education units (CEUs) which support professional development & certification.</li>
+                                <li>Webinars and workshops based on topics of interest to both the government and industry with ability to earn continuous education units (CEUs) which support professional development &amp;amp; certification.</li>
                                 <li>Brown Bag discussions and Ask Me Anything with subject matter experts to provide collaborative experiences that are shared among multiple companies</li>
-                                <li>Hands - on or strategic training sessions one - on - one with member companies</li>
+                                <li>Hands-on or strategic training sessions one-on-one with member companies</li>
                                 <li>Opportunities to speak on behalf of the DSC and its community at trade shows, meet-ups, and other external events</li>
                             </ul>
                         </div>
@@ -52,16 +52,16 @@
                                 <li>Yearly all hands meetings for overall DSC updates</li>
                                 <li>DSC member happy hours and networking events </li>
                                 <li>Networking and education events with government partners</li>
-                                <li>Fun events- such as DSC hikes, picnics, and holiday parties</li>
+                                <li>Fun events &mdash; such as DSC hikes, picnics, and holiday parties</li>
                                 <li>Virtual happy hours and events to ensure the distributed members have the ability to connect and network.</li>
-                                <li>Soon to come: DSC Summits & larger events</li>
+                                <li>Soon to come: DSC Summits &amp; larger events</li>
                             </ul>
                         </div>
                         <div>
-                            <b>Advocacy & Policy:</b>
+                            <b>Advocacy &amp; Policy:</b>
                             <p>The DSC represents the members interest in government legislation, policy, and regulations that affect our industry: </p>
                             <ul>
-                                <li>Participates in legislative reviews on upcoming or revision of proposed legislation such as the Clear & Concise Writing Act, FITARA, NDAA, etc. </li>
+                                <li>Participates in legislative reviews on upcoming or revision of proposed legislation such as the Clear &amp; Concise Writing Act, FITARA, NDAA, etc. </li>
                                 <li>Assists government in understanding and applying executive orders such as the Customer Experience Executive Orders and the Cybersecurity Executive Orders. </li>
                                 <li>Advocates on behalf of and to the government in areas such as accessibility, diversity, equity, and inclusion.</li>
                                 <li>Conducts activities to improve opportunities for socio-economic categories and under-represented talent in the tech industry.</li>
@@ -87,22 +87,11 @@
                             <p>Builds in discounts or no charges for any DSC led activity.</p>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="bg-parallax">
-            <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
-                <img src="@/assets/bg-rectangle-purple.png" />
-            </parallax>
-        </div>
-        <div class="bg-gray">
-            <div class="container py-5">
-                <div class="row justify-content-md-between">
-                    <div class="col-md-6 py-5">
+                    <div>
                         <h2 class="text-gray mt-5">How to join</h2>
                         <p>Each existing charter member firm can evaluate and agree to sponsor one prospective new member firm per year. The charter member firm is responsible for mentoring and guiding the sponsored firm in the mission and values of the coalition. Sponsored firms must provide at least two references, and pass a review by the coalition onboarding panel.</p>
                     </div>
-                    <div class="col-md-6 py-5">
+                    <div>
                         <h2 class="text-gray mt-5">Criteria for membership</h2>
                         <ul>
                             <li>Completed application, including two digital services case studies where work was performed within the last three years, with customer references for each. <a href="/pdfs/Appendix-A-Case-Study-Instructions-2023.pdf" target="_blank">2023 Case Study Instructions </a></li>
@@ -114,6 +103,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="bg-parallax">
+            <parallax :speed-factor=".15" sectionClass="parallax-outside-cover" containerClass="parallax-inside">
+                <img src="@/assets/bg-rectangle-purple.png" />
+            </parallax>
         </div>
     </section>
 </template>
