@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f4708117b34b184216c915970fed5121",
-    "url": "/img/logo-corbalt.f4708117.png"
+    "revision": "619ac22e13cae3399fe7051932ced38f",
+    "url": "/img/logo-mss.619ac22e.png"
   },
   {
-    "revision": "194c7a87f1995771783f",
-    "url": "/css/app.bd620ee8.css"
+    "revision": "fe730cc43ebcfcf835d4",
+    "url": "/css/app.c14d9fa7.css"
   },
   {
     "revision": "f2ba279ed74c8cec5501",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "194c7a87f1995771783f",
-    "url": "/js/app.a6575cf5.js"
+    "revision": "f4708117b34b184216c915970fed5121",
+    "url": "/img/logo-corbalt.f4708117.png"
   },
   {
-    "revision": "619ac22e13cae3399fe7051932ced38f",
-    "url": "/img/logo-mss.619ac22e.png"
+    "revision": "fe730cc43ebcfcf835d4",
+    "url": "/js/app.73ba4383.js"
   },
   {
     "revision": "311aead8a124096f49cc66ba882b2f53",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "b2b19508df8d4aca9c92fc5d78fbddc4",
+    "revision": "012255bedeba711cb934bcd118b45e5f",
     "url": "/index.html"
   },
   {
@@ -304,12 +304,20 @@ self.__precacheManifest = [
     "url": "/img/illustration-gov.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
+    "revision": "649b6752bf8c64f9651f96c5916be825",
+    "url": "/pdfs/Membership-Policy-2023.pdf"
   },
   {
     "revision": "72ce9230ec618bfe26f0b38f3469bdf3",
     "url": "/favicon.png"
+  },
+  {
+    "revision": "abde3de06d586093e8f239f0c91f2636",
+    "url": "/pdfs/Appendix-A-Case-Study-Instructions-2023.pdf"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "d78bb92e68812aff0a489481aad44212",
