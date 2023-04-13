@@ -12,7 +12,7 @@
                     <div class="alert alert-success" role="alert">
                         <h2 class="h4"><b>Announcement</b></h2>
                         <b>We are now accepting applications for membership in the DSC from April 10th through May 7th, 2023.<br/><br/>Prior to filling out an application please review the 2023 DSC Membership Policy to ensure your company is eligible and to see the cost of membership: </b><b><a href="/pdfs/Membership-Policy-2023.pdf" target="_blank">DSC 2023 Membership Policy</a></b><br/><br/>
-                        <b>Fill out your application here: <a href="https://www.surveymonkey.com/r/BLNLCZJ">DSC 2023 Membership Application</a></b>
+                        <b>Fill out your application here: <a href="https://www.surveymonkey.com/r/WQ5JRKR">DSC 2023 Membership Application</a></b>
                     </div>
                     <div class="who-can-join">
                         <h2 class="text-gray mt-5">Who can join</h2>
