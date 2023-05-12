@@ -42,7 +42,7 @@
                         “We look forward to working with the coalition to make a difference in the daily lives of users through improved interactions with government digital services built specifically for them.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.agile6.com" img="logo-agilesix.png" img-alt="Agile Six">
+                    <MemberItem class="row mt-5" link-url="https://www.agile6.com" img="logo-agilesix-2.png" img-alt="Agile Six">
                         “We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i>
                     </MemberItem>
 
@@ -132,7 +132,7 @@
                         “An award-winning provider of digital transformation services; combining technology expertise with digital strategy, interactive marketing, and branding accelerating our customers’ digital strategy to produce innovative applications and websites.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.navapbc.com/" img="logo-nava.png" img-alt="Nava Public Benefit Corporation">
+                    <MemberItem class="row mt-5" link-url="https://www.navapbc.com/" img="logo-nava-2.png" img-alt="Nava Public Benefit Corporation">
                         “As a public benefit corporation, Nava is driven not just by profit, but also by our mission to build government software that well serves the American public. We are proud to be charter members of the Digital Services Coalition because our collective work shows that by putting the American people and civil servants at the center, it’s possible to radically improve how we deliver government services.” <i>*</i>
                     </MemberItem>
 
