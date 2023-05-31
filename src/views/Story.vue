@@ -46,7 +46,7 @@
                         “We believe that strong teams are built on trust and agility. When someone tells you that they’ve “Got Your Six,” it means they’re watching your back. Knowing other member firms have our six means we can focus on transforming the working relationship between government and the private sector — which we believe will deliver better digital experiences for our citizens.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-url="https://www.aquia.us//" img="logo-aquia.png" img-alt="Aquia">
+                    <MemberItem class="row mt-5" link-url="https://www.aquia.us/" img="logo-aquia-2.png" img-alt="Aquia">
                         “Aquia is a developer-centric SDVOSB and Certified Great Place to Work founded in 2021 by military veterans with passion for the intersection of security & velocity, with decades of experience driving transformational change across public sector, enterprise, and top-tier technology companies.”
                     </MemberItem>
 
