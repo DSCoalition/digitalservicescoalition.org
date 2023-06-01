@@ -47,7 +47,7 @@
                     </MemberItem>
 
                     <MemberItem class="row mt-5" link-url="https://www.aquia.us/" img="logo-aquia-2.png" img-alt="Aquia">
-                        “Aquia is a developer-centric SDVOSB and Certified Great Place to Work founded in 2021 by military veterans with passion for the intersection of security & velocity, with decades of experience driving transformational change across public sector, enterprise, and top-tier technology companies.”
+                        “Aquia was born from the belief that our country deserves to have the brightest cybersecurity talent working on its toughest cybersecurity challenges. We are on a mission to challenge the status quo, enable innovation, and drive transformative change.”
                     </MemberItem>
 
                     <MemberItem class="row mt-5" link-url="https://www.awlstrategies.com/" img="AWL_Logo_Color_MAIN.png" img-alt="AWL Strategies">
@@ -144,11 +144,11 @@
                         “Government missions make an impact on people’s lives. Software can be the ‘force multiplier’ to execute those missions. We believe that the government deserves the best in technology and talent in order to be as effective as possible.” <i>*</i>
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-ul="https://goraft.tech/" img="logo-raft.jpg" img-alt="Raft LLC">
+                    <MemberItem class="row mt-5" link-url="https://goraft.tech/" img="logo-raft.jpg" img-alt="Raft LLC">
                         “Raft LLC brings radical transparency and a commitment to mission success, bridging the gap between humans and data for better, sustainable program outcomes. Inspired by the Raft Consensus Model, we are obsessed with inclusive problem solving and using technology to improve lives.”
                     </MemberItem>
 
-                    <MemberItem class="row mt-5" link-ul="https://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
+                    <MemberItem class="row mt-5" link-url="https://www.simpletechnology.io/" img="logo-simple.jpg" img-alt="Simple Technology">
                         “Simple Technology believes Government should operate at the speed of innovation. Our engineers (multi-cloud, low code, and open source) are passionate about using cloud-native technologies to automate ITOps activities and business processes so agencies can focus on the mission.”
                     </MemberItem>
 
