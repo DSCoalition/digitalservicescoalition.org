@@ -109,8 +109,8 @@
                 </div>
 
                 <div class="col-md-5">
-                    <MemberItem class="row mt-5" link-url="https://friendsfromthecity.com/" img="logo-friends-from-the-city.png" img-alt="Friends From The City">
-                        “Friends From The City is a digital services company that delivers best-in-class HCD experiences to federal agencies. We are a team of talented and diverse technologists committed to producing ethical design and technology solutions.”
+                    <MemberItem class="row mt-5" link-url="https://friendsfromthecity.com/" img="friends-from-the-city.png" img-alt="Friends From The City">
+                        “Friends From The City is a modern digital services firm focused on impact. Our goal is to make digital interactions with the government easy to use, inclusive and accessible for all.”
                     </MemberItem>
                     <MemberItem class="row mt-5" link-url="https://kindsys.us/" img="logo-kind.png" img-alt="Kind Systems">
                         “Using modern web, mobile, and data technologies combined with human-centric design, the team at Kind Systems builds approachable, fast digital services in an agile fashion based on the principles of the Digital Services Playbook and our own private sector experience.”
