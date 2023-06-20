@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/img/logo-corbalt.f4708117.png"
   },
   {
-    "revision": "4357b7234bdc77337612",
+    "revision": "806d13202b14ea908c48",
     "url": "/css/app.c14d9fa7.css"
   },
   {
@@ -88,6 +88,10 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-pink.45b1e933.png"
   },
   {
+    "revision": "3d12c704a31d299b285b4d30538226e2",
+    "url": "/img/friends-from-the-city.3d12c704.png"
+  },
+  {
     "revision": "e5bd73a918c36f772b4697d5906a127a",
     "url": "/img/bg-triangle-blue.e5bd73a9.png"
   },
@@ -168,8 +172,8 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-blue2.bccfb493.png"
   },
   {
-    "revision": "4357b7234bdc77337612",
-    "url": "/js/app.ebe5468e.js"
+    "revision": "806d13202b14ea908c48",
+    "url": "/js/app.194a592c.js"
   },
   {
     "revision": "619ac22e13cae3399fe7051932ced38f",
@@ -308,7 +312,7 @@ self.__precacheManifest = [
     "url": "/img/bg-triangle-gray.1f54e43a.png"
   },
   {
-    "revision": "7f534d3c949b095fbf6bee0eb8900b36",
+    "revision": "629c04652ddbf92cf63ed85fdacefc6a",
     "url": "/index.html"
   },
   {
@@ -324,12 +328,12 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
     "revision": "abde3de06d586093e8f239f0c91f2636",
     "url": "/pdfs/Appendix-A-Case-Study-Instructions-2023.pdf"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "d78bb92e68812aff0a489481aad44212",
