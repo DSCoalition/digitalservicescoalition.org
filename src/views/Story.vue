@@ -26,7 +26,7 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-md-10">
-                    <h2 class="text-gray mt-5">Our community</h2>
+                    <h2 class="text-gray mt-5" id="OurCommunity">Our community</h2>
                     <p>The Coalition formed from the shared ideals of 16 companies and continues to grow as other firms join the call.</p>
                     <p><i>* = Founding member</i></p>
                 </div>
