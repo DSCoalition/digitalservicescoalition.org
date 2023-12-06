@@ -1,4 +1,6 @@
-# DigitalServicesCoalition.Org
+# DigitalServicesCoalition.Org - DEPRECATED
+
+New repository can be found here: https://github.com/DSCoalition/dsc-11ty-cms
 
 ## Project setup
 Install dependencies:
